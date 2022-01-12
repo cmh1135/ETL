@@ -1,0 +1,58 @@
+drug_id,drug,admin_by,route,dosage_form
+54,Spinosad,Animal Owner,Oral,Tablet. chewable
+22,Ivermectin,Animal Owner,Oral,Tablet. chewable
+16,Imidacloprid,Other,Other,Solution
+40,Moxidectin,Veterinarian,Subcutaneous,Suspension
+42,Nitenpyram,Animal Owner,Oral,Tablet
+31,Melarsomine Dihydrochloride Injection,Veterinarian,Intramuscular,Suspension
+12,Fluralaner Chew Tablets,Animal Owner,Oral,Tablet. chewable
+4,Afoxolaner,Animal Owner,Oral,Tablet. chewable
+6,Afoxolaner,Unknown,Oral,Tablet. chewable
+51,Sarolaner,Animal Owner,Oral,Tablet. chewable
+25,Ivermectin,Unknown,Oral,Tablet. chewable
+24,Ivermectin,Unknown,Oral,Tablet
+37,Milbemycin Oxime,Animal Owner,Oral,Tablet. chewable
+49,Pyrantel Pamoate,Animal Owner,Oral,Tablet. chewable
+15,Imidacloprid,Animal Owner,Topical,Solution
+44,Oclacitinib Maleate,Animal Owner,Oral,Tablet
+36,Milbemycin Oxime,Animal Owner,Oral,Tablet
+53,Selamectin,Animal Owner,Topical,Solution
+14,Grapiprant,Animal Owner,Oral,Tablet
+39,Moxidectin,Unknown,Subcutaneous,Suspension
+38,Moxidectin,Other Health Care Professional,Subcutaneous,Suspension
+48,Pyrantel Pamoate;Sarolaner,Animal Owner,Oral,Tablet. chewable
+34,Milbemcyin Oxime. Lufenuron. Praziquantel,Animal Owner,Oral,Tablet. chewable
+13,Fluralaner Chew Tablets,Other,Oral,Tablet. chewable
+35,Milbemycin Oxime. Lufenuron,Animal Owner,Oral,Tablet
+45,Polysulfated Glycosaminoglycan,Animal Owner,Intramuscular,Solution
+33,Melarsomine Dihydrochloride,Veterinarian,Intramuscular,Suspension
+46,Polysulfated Glycosaminoglycan,Unknown,Parenteral,Solution
+55,Spinosad,Unknown,Oral,Tablet. chewable
+56,Trilostane,Animal Owner,Oral,Capsule
+9,Cyclosporine A,Animal Owner,Oral,Capsule
+21,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Animal Owner,Oral,Tablet. chewable
+7,Carprofen,Animal Owner,Oral,Tablet
+47,Pyrantel Pamoate/Praziquantel,Animal Owner,Oral,Tablet
+32,Melarsomine Dihydrochloride,Veterinarian,Intramuscular,Powder
+41,Moxidectin,Veterinarian,Unknown,Suspension
+11,Florfenicol,Veterinarian,Unknown,Solution
+2,Afoxolaner 68 Mg Chewable Tablets,Unknown,Oral,Tablet. chewable
+3,Afoxolaner 68 Mg Chewable Tablets,Unknown,Unknown,Tablet. chewable
+20,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Animal Owner,Oral,Tablet. chewable
+19,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Animal Owner,Oral,Tablet. chewable
+17,Ivermectin 272Mcg. Pyrantel Pamoate 228Mg. Praziquantel 228Mg,Animal Owner,Oral,Tablet. chewable
+52,Sarolaner,Veterinarian,Oral,Tablet. chewable
+43,Nitenpyram,Other,Oral,Tablet
+26,Lotilaner,Animal Owner,Oral,Tablet. chewable
+23,Ivermectin,Patient,Oral,Tablet. chewable
+29,Maropitant Citrate,Veterinarian,Unknown,Injection
+50,Pyrantel Pamoate,Patient,Oral,Tablet. chewable
+0,Afoxolaner 136 Mg Chewable Tablets,Animal Owner,Oral,Tablet. chewable
+28,Maropitant Citrate,Veterinarian,Subcutaneous,Injection
+8,Carprofen,Animal Owner,Oral,Tablet. chewable
+10,Florfenicol,Veterinarian,Auricular (Otic),Gel
+30,Melarsomine Dihydrochloride Injection,Unknown,Intramuscular,Suspension
+27,Lotilaner,Other,Oral,Tablet. chewable
+1,Afoxolaner 136 Mg Chewable Tablets,Unknown,Oral,Tablet. chewable
+5,Afoxolaner,Animal Owner,Unknown,Tablet. chewable
+18,Ivermectin 272Mcg. Pyrantel Pamoate 228Mg. Praziquantel 228Mg,Other,Oral,Tablet. chewable

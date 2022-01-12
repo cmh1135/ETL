@@ -1,416 +1,416 @@
-species,gender,age,weight,breed,drug,outcome,date_in,react_term_code,react_term_name,first_exp_da,last_exp_da,admin_by,route,dosage_form
-Dog,Female,7,5,Terrier - West Highland White,Spinosad,Recovered/Normal,20120627,335,Emesis,20120327.0,20120627.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,14,7,Schnauzer (unspecified,Spinosad,Recovered/Normal,20110928,335,Emesis,20110923.0,20110923.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,14,36,Doberman Pinscher,Ivermectin,Outcome Unknown,20150203,305,Digestive tract disorder NOS,20150201.0,20150201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,39,German Boxer,Imidacloprid,Outcome Unknown,20160420,2082,Emesis,20160420.0,20160420.0,Other,Other,Solution
-Dog,Male,9,5,Poodle - Miniature,Ivermectin,Outcome Unknown,20150319,305,Digestive tract disorder NOS,20141201.0,20150301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,33,Retriever - Golden,Moxidectin,Outcome Unknown,20150612,130,Crying,20150611.0,20150611.0,Veterinarian,Subcutaneous,Suspension
-Dog,Male,5,20,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20150730,305,Digestive tract disorder NOS,20100101.0,20150701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,22,Shepherd Dog - Australian,Nitenpyram,Ongoing,20150625,1039,Lack of efficacy - NOS,20150618.0,20150620.0,Animal Owner,Oral,Tablet
-Dog,Female,2,27,Pit Bull,Melarsomine Dihydrochloride Injection,Outcome Unknown,20151015,334,Vomiting,20151013.0,20151014.0,Veterinarian,Intramuscular,Suspension
-Dog,Female,9,1,Spitz - German Pomeranian,Spinosad,Outcome Unknown,20150603,1039,Lack of efficacy - NOS,20150514.0,20150514.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,9,6,Dalmatian,Spinosad,Recovered/Normal,20150731,334,Vomiting,20150630.0,20150630.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,28,German Boxer,Spinosad,Recovered/Normal,20151027,334,Vomiting,201309.0,20151027.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,5,Dachshund - Miniature,Spinosad,Outcome Unknown,20151110,2649,Lack of efficacy (ectoparasite) - flea,201311.0,20151101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,4,Maltese,Fluralaner Chew Tablets,Outcome Unknown,20151007,2658,Lack of efficacy (ectoparasite) - tick NOS,20150819.0,20150819.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,6,Schnauzer - Miniature,Afoxolaner,Recovered/Normal,20151007,1492,Generalised itching,20150731.0,20150831.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,8,Chihuahua,Spinosad,Outcome Unknown,20160112,2798,Lack of efficacy (endoparasite) - hookworm,201108.0,20160101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,2,Poodle - Toy,Afoxolaner,Outcome Unknown,20160511,1756,Skin disorders NOS,20160501.0,20160501.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,2,4,Maltese,Spinosad,Outcome Unknown,20160517,2649,Lack of efficacy (ectoparasite) - flea,20160401.0,20160503.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,9,Terrier - Boston,Spinosad,Recovered/Normal,20160315,334,Vomiting,20160303.0,20160303.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,16,12,Retriever - Labrador,Spinosad,Outcome Unknown,20151201,99115,"INEFFECTIVE, HEARTWORM LARVAE",20150120.0,20150720.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,15,Sheepdog - Shetland,Melarsomine Dihydrochloride Injection,Died,20160418,1012,Pain NOS,20160210.0,20160415.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,5,19,Retriever - Labrador,Sarolaner,Outcome Unknown,20171205,334,Vomiting,20171101.0,20171202.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,4,Maltese,Spinosad,Ongoing,20170925,99951,UNPALATABLE,20110101.0,20170601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,17,Pit Bull,Spinosad,Recovered/Normal,20161109,334,Vomiting,20161108.0,20161108.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,10,Terrier - Jack Russell,Spinosad,Recovered/Normal,20160418,334,Vomiting,20160416.0,20160416.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,4,32,Retriever - Labrador,Ivermectin,Outcome Unknown,20160804,305,Digestive tract disorder NOS,20150804.0,20160701.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,16,34,Retriever - Labrador,Ivermectin,Outcome Unknown,20160901,305,Digestive tract disorder NOS,20160201.0,20160816.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,7,43,Retriever - Labrador,Ivermectin,Outcome Unknown,20160610,305,Digestive tract disorder NOS,20150501.0,20160515.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,4,19,Crossbred Canine/dog,Spinosad,Outcome Unknown,20160906,99951,UNPALATABLE,20160702.0,20160902.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,36,Retriever - Labrador,Ivermectin,Outcome Unknown,20160802,305,Digestive tract disorder NOS,20160107.0,20160715.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,2,15,Hound,Ivermectin,Recovered with Sequela,20161102,99115,"INEFFECTIVE, HEARTWORM LARVAE",20151121.0,20161001.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,6,32,Retriever - Labrador,Ivermectin,Recovered/Normal,20160929,645,Seizure NOS,20140910.0,20160813.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,2,4,Maltese,Ivermectin,Ongoing,20170314,304,Loose stool,20170313.0,20170313.0,Unknown,Oral,Tablet
-Dog,Female,7,2,Terrier - Yorkshire,Sarolaner,Outcome Unknown,20160929,2649,Lack of efficacy (ectoparasite) - flea,20160915.0,20160915.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,29,Shepherd Dog - German,Ivermectin,Outcome Unknown,20170614,202,Cardiac disorder NOS,20160307.0,20170601.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,10,3,Terrier,Milbemycin Oxime,Outcome Unknown,20170405,99112,"INEFFECTIVE, HOOKS",20080101.0,20170101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,16,24,Mountain Cur,Spinosad,Outcome Unknown,20170116,99115,"INEFFECTIVE, HEARTWORM LARVAE",20160210.0,20161001.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,28,Retriever - Labrador,Moxidectin,Ongoing,20181002,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20180911.0,20180911.0,Veterinarian,Subcutaneous,Suspension
-Dog,Female,6,32,Hound,Afoxolaner,Outcome Unknown,20190114,2648,Lack of efficacy (bacteria) - NOS,20180312.0,20190101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,11,Terrier - Boston,Ivermectin,Outcome Unknown,20190204,2656,Lack of efficacy (endoparasite) - roundworm NOS,20120622.0,20190126.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,42,Shepherd Dog - German,Spinosad,Outcome Unknown,20181001,2430,Lack of efficacy (heartworm),20160415.0,20180901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,11,14,Dog,Pyrantel Pamoate,Recovered/Normal,20190304,334,Vomiting,20190303.0,20190303.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,15,Shepherd Dog - Australian,Afoxolaner,Recovered/Normal,20190517,334,Vomiting,20190513.0,20190513.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,14,18,Collie - Border,Spinosad,Outcome Unknown,20170907,334,Vomiting,20120409.0,20170601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,6,Pug,Imidacloprid,Recovered/Normal,20180209,116,Behavioural disorder NOS,20180209.0,20180209.0,Animal Owner,Topical,Solution
-Dog,Female,7,8,Dachshund,Ivermectin,Outcome Unknown,20171130,99112,"INEFFECTIVE, HOOKS",20170901.0,20171126.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,9,26,Beagle,Ivermectin,Outcome Unknown,20180430,2430,Lack of efficacy (endoparasite) - heartworm,20161107.0,20180401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,4,Maltese,Oclacitinib Maleate,Outcome Unknown,20180626,2026,Urinary tract infection,20180609.0,20180623.0,Animal Owner,Oral,Tablet
-Dog,Female,6,35,Weimaraner,Milbemycin Oxime,Outcome Unknown,20181017,99115,"INEFFECTIVE, HEARTWORM LARVAE",20150302.0,20180901.0,Animal Owner,Oral,Tablet
-Dog,Male,14,8,Spitz - German Pomeranian,Selamectin,Outcome Unknown,20180802,884,Cough,20130101.0,20180729.0,Animal Owner,Topical,Solution
-Dog,Male,4,9,Shepherd Dog - Australian,Ivermectin,Ongoing,20200629,99112,"INEFFECTIVE, HOOKS",20200621.0,20200621.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,9,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20200514,99158,"INEFFECTIVE, WHIPS",20200401.0,20200401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,20,Hound - Basset,Ivermectin,Outcome Unknown,20200814,2798,Lack of efficacy (endoparasite) - hookworm,20200801.0,20200801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,22,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20190607,99112,"INEFFECTIVE, HOOKS",20190301.0,20190521.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,25,Cattle Dog,Milbemycin Oxime,Outcome Unknown,20190829,2430,Lack of efficacy (endoparasite) - heartworm,20171215.0,20190715.0,Animal Owner,Oral,Tablet
-Dog,Female,15,15,Crossbred Canine/dog,Ivermectin,Recovered with Sequela,20191008,2430,Lack of efficacy (endoparasite) - heartworm,20181016.0,20191001.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,67,"Deutsche Dogge, Great Dane",Grapiprant,Outcome Unknown,20200109,1039,Lack of efficacy - NOS,20180109.0,20200109.0,Animal Owner,Oral,Tablet
-Dog,Male,4,6,Terrier,Moxidectin,Ongoing,20191111,2436,Lack of efficacy (endoparasite) - NOS,20190506.0,20190506.0,Unknown,Subcutaneous,Suspension
-Dog,Female,3,18,Beagle,Spinosad,Outcome Unknown,20190715,99112,"INEFFECTIVE, HOOKS",20180716.0,20190513.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,30,Pit Bull,Spinosad,Outcome Unknown,20190411,2430,Lack of efficacy (endoparasite) - heartworm,20150914.0,20180801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,33,Retriever - Labrador,Ivermectin,Recovered with Sequela,20200127,2430,Lack of efficacy (endoparasite) - heartworm,20140109.0,20200118.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,9,Schnauzer - Miniature,Milbemycin Oxime,Recovered/Normal,20200606,344,Gagging,20191101.0,20200606.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,44,Rottweiler,Ivermectin,Outcome Unknown,20210120,2430,Lack of efficacy (endoparasite) - heartworm,20180220.0,20201201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,5,Terrier (unspecified,Spinosad,Ongoing,20200914,334,Vomiting,20200514.0,20200914.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,4,Terrier - Yorkshire,Moxidectin,Recovered/Normal,20201228,1525,Hives (see also 'Skin'),20201222.0,20201222.0,Other Health Care Professional,Subcutaneous,Suspension
-Dog,Male,8,38,Shepherd Dog - Belgian Malinois,Milbemycin Oxime,Outcome Unknown,20210318,2430,Lack of efficacy (endoparasite) - heartworm,20190205.0,20200101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,9,Terrier - Jack Russell,Spinosad,Recovered/Normal,20111020,335,Emesis,20111012.0,20111012.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,19,Beagle,Moxidectin,Ongoing,20210614,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20210612.0,20210612.0,Unknown,Subcutaneous,Suspension
-Dog,Female,7,22,Dog,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20210629,2649,Lack of efficacy (ectoparasite) - flea,20210410.0,20210610.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,30,Dog,Afoxolaner,Outcome Unknown,20210316,2649,Lack of efficacy (ectoparasite) - flea,20210304.0,20210304.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,23,Collie (unspecified,Milbemycin Oxime,Recovered/Normal,20160105,334,Vomiting,20160101.0,20160101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,12,5,Terrier - Rat,Spinosad,Outcome Unknown,20160523,99088,"INEFFECTIVE, ASCARIDS NOS",20121101.0,20160501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,8,Beagle,Spinosad,Recovered/Normal,20160315,334,Vomiting,201510.0,20160315.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,9,Spaniel - King Charles Cavalier,Spinosad,Recovered/Normal,20160519,2246,Star-gazing,20160518.0,20160518.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,26,Unknown,Melarsomine Dihydrochloride Injection,Outcome Unknown,20150407,855,Panting,20150406.0,20150406.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,1,10,Bulldog - French,Afoxolaner,Outcome Unknown,20150304,334,Vomiting,20150201.0,20150301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,10,Spitz - German Pomeranian,Nitenpyram,Ongoing,20150519,1039,Lack of efficacy - NOS,20150512.0,20150513.0,Animal Owner,Oral,Tablet
-Dog,Female,1,31,Shepherd Dog - German,Spinosad,Outcome Unknown,20150909,1039,Lack of efficacy - NOS,20140901.0,20150901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,14,3,Terrier - Yorkshire,Ivermectin,Outcome Unknown,20150831,305,Digestive tract disorder NOS,20060801.0,20150815.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,5,Havanese,Spinosad,Outcome Unknown,20151124,334,Vomiting,20151123.0,20151123.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,13,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20151019,884,Cough,20150916.0,20150916.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,28,Retriever - Labrador,Spinosad,Recovered/Normal,20150812,335,Emesis,20150809.0,20150811.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,45,Shepherd Dog - German,Ivermectin,Outcome Unknown,20151102,305,Digestive tract disorder NOS,20120101.0,20151028.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,17,Sheepdog - Shetland,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20151012,99088,"INEFFECTIVE, ASCARIDS NOS",20150930.0,20150930.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,11,Spaniel - Cocker American,Ivermectin,Ongoing,20170614,305,Digestive tract disorder NOS,20140624.0,20170602.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,8,32,German Boxer,Ivermectin,Outcome Unknown,20170627,2798,Lack of efficacy (endoparasite) - hookworm,20160709.0,20170606.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,6,29,Weimaraner,Ivermectin,Recovered with Sequela,20170822,99115,"INEFFECTIVE, HEARTWORM LARVAE",20141121.0,20170801.0,Unknown,Oral,"Tablet, chewable"
-Dog,Mixed,10,1,Dog,Fluralaner Chew Tablets,Outcome Unknown,20170807,1309,Alopecia,20170725.0,20170725.0,Other,Oral,"Tablet, chewable"
-Dog,Male,5,24,Shepherd,Sarolaner,Outcome Unknown,20170718,2649,Lack of efficacy (ectoparasite) - flea,20170609.0,20170709.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,31,German Boxer,Spinosad,Recovered with Sequela,20170919,202,Cardiac disorder NOS,20150101.0,20170201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,2,Maltese,Spinosad,Recovered/Normal,20170926,335,Emesis,20170926.0,20170926.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,28,Greyhound,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20160422,2798,Lack of efficacy (endoparasite) - hookworm,20160402.0,20160402.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,12,34,Pointing Dog - German Short-haired,"Milbemycin Oxime, Lufenuron",Recovered with Sequela,20160926,99115,"INEFFECTIVE, HEARTWORM LARVAE",20150626.0,20160826.0,Animal Owner,Oral,Tablet
-Dog,Female,7,24,Greyhound,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20160922,2798,Lack of efficacy (endoparasite) - hookworm,20160901.0,20160901.0,Animal Owner,Oral,Tablet
-Dog,Female,7,44,Rottweiler,Polysulfated Glycosaminoglycan,Ongoing,20170214,1891,Pancreatitis,20120101.0,20170101.0,Animal Owner,Intramuscular,Solution
-Dog,Unknown,5,14,Dog,Selamectin,Ongoing,20170222,2791,Lack of efficacy (ectoparasite) - ear mite,20161227.0,20170221.0,Animal Owner,Topical,Solution
-Dog,Female,7,6,Dachshund - Miniature,Ivermectin,Outcome Unknown,20170314,1221,Other abnormal test result NOS,20160301.0,20170301.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,4,22,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Spinosad,Recovered/Normal,20170424,334,Vomiting,20170201.0,20170201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,32,Poodle - Standard,Spinosad,Outcome Unknown,20170417,99115,"INEFFECTIVE, HEARTWORM LARVAE",20151028.0,20160901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,40,Retriever - Labrador,Spinosad,Recovered/Normal,20181022,334,Vomiting,20140701.0,20181020.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,32,Retriever - Labrador,Ivermectin,Outcome Unknown,20190125,2430,Lack of efficacy (endoparasite) - heartworm,20161207.0,20181201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,27,Retriever - Golden,Ivermectin,Outcome Unknown,20190117,99112,"INEFFECTIVE, HOOKS",20160101.0,20190103.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,30,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20190304,702,Horner's syndrome,20190301.0,20190301.0,Animal Owner,Oral,Tablet
-Dog,Male,11,8,Terrier - West Highland White,Milbemycin Oxime,Outcome Unknown,20171221,2656,Lack of efficacy (roundworm),20160102.0,20171202.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,5,Maltese,Spinosad,Recovered/Normal,20170920,334,Vomiting,20170501.0,20170916.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,18,Shepherd Dog - Australian,Ivermectin,Outcome Unknown,20180625,1900,Head tremor,20180620.0,20180620.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,6,4,Pug,Spinosad,Outcome Unknown,20180323,2649,Lack of efficacy (flea),20180320.0,20180320.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,9,Retriever - Labrador,Spinosad,Recovered/Normal,20180327,334,Vomiting,20180326.0,20180326.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,45,Retriever - Labrador,Oclacitinib Maleate,Ongoing,20180724,302,Diarrhoea,20171001.0,20180719.0,Animal Owner,Oral,Tablet
-Dog,Male,5,7,Dachshund,Melarsomine Dihydrochloride,Outcome Unknown,20180803,884,Cough,20180620.0,20180620.0,Veterinarian,Intramuscular,Suspension
-Dog,Female,3,24,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20180821,335,Emesis,20170801.0,20180821.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,14,Dog,Milbemycin Oxime,Outcome Unknown,20190521,2430,Lack of efficacy (endoparasite) - heartworm,20170812.0,20190512.0,Animal Owner,Oral,Tablet
-Dog,Male,15,46,Akita,Polysulfated Glycosaminoglycan,Outcome Unknown,20190715,302,Diarrhoea,20190606.0,20190708.0,Unknown,Parenteral,Solution
-Dog,Female,6,5,Chihuahua,Ivermectin,Outcome Unknown,20200528,645,Seizure NOS,20200512.0,20200512.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,39,Shepherd Dog - German,Spinosad,Outcome Unknown,20200409,2430,Lack of efficacy (endoparasite) - heartworm,20170708.0,20170708.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,2,2,Terrier - Yorkshire,Afoxolaner,Outcome Unknown,20191218,2649,Lack of efficacy (ectoparasite) - flea,20171201.0,20191201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,15,15,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Ivermectin,Recovered with Sequela,20190816,2430,Lack of efficacy (endoparasite) - heartworm,20180810.0,20190801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,20,Shepherd,Grapiprant,Ongoing,20190419,2182,Azotaemia,20181201.0,20190419.0,Animal Owner,Oral,Tablet
-Dog,Male,8,11,Spaniel (unspecified,Ivermectin,Outcome Unknown,20191004,99112,"INEFFECTIVE, HOOKS",20190820.0,20190820.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,38,Hound,Ivermectin,Outcome Unknown,20191202,2430,Lack of efficacy (endoparasite) - heartworm,20180904.0,20190204.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,9,Retriever - Labrador,Milbemycin Oxime,Ongoing,20191121,334,Vomiting,20191120.0,20191120.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,11,8,Mixed (Dog,Spinosad,Outcome Unknown,20190225,334,Vomiting,20190223.0,20190223.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,13,Crossbred Canine/dog,Spinosad,Outcome Unknown,20190513,2649,Lack of efficacy (flea),20190301.0,20190401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,48,Mastiff,Milbemycin Oxime,Outcome Unknown,20200128,2430,Lack of efficacy (endoparasite) - heartworm,20190501.0,20190901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,9,Terrier - West Highland White,Trilostane,Outcome Unknown,20200130,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20200122.0,20200220.0,Animal Owner,Oral,Capsule
-Dog,Female,12,3,Poodle - Miniature,Spinosad,Euthanized,20130419,126,Dullness,20130321.0,20130321.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,29,Retriever - Golden,Spinosad,Outcome Unknown,20130122,134,Pica NOS,20120820.0,20130101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,9,39,Retriever - Labrador,Cyclosporine A,Recovered/Normal,20130514,469,Conjunctivitis,20130430.0,20130506.0,Animal Owner,Oral,Capsule
-Dog,Female,12,7,Shepherd,Spinosad,Recovered/Normal,20130624,335,Emesis,20130528.0,20130528.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,7,Terrier,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20130617,855,Panting,20130615.0,20130615.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,9,13,Terrier (unspecified,Spinosad,Recovered/Normal,20120104,356,Otitis externa,20110613.0,20111113.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,3,Shih Tzu,Spinosad,Recovered/Normal,20110923,687,Trembling,20110923.0,20110923.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,8,Shih Tzu,Spinosad,Recovered with Sequela,20120220,959,Scratching,20111201.0,20120101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,24,Shepherd Dog - German,Spinosad,Outcome Unknown,20111121,335,Emesis,201106.0,201111.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,5,Terrier,Spinosad,Outcome Unknown,20120521,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20120415.0,20120521.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,3,Shih Tzu,Spinosad,Outcome Unknown,20120315,959,Scratching,20100801.0,20140101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,12,7,Schnauzer (unspecified,Spinosad,Recovered with Sequela,20120425,116,Behavioural disorder NOS,20120415.0,20120415.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,6,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120910,335,Emesis,20120906.0,20120906.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,11,Terrier - Boston,Spinosad,Recovered/Normal,20120806,335,Emesis,20120501.0,20120701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,2,Shih Tzu,Spinosad,Recovered with Sequela,20121019,409,Partial blindness,20120201.0,20121001.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,11,19,Shepherd Dog - German,Carprofen,Died,20121015,116,Behavioural disorder NOS,20120919.0,20120924.0,Animal Owner,Oral,Tablet
-Dog,Male,8,6,Terrier - Jack Russell,Spinosad,Recovered/Normal,20120918,645,Seizure NOS,20081201.0,20120901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,4,9,Spaniel - Cocker American,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20140926,334,Vomiting,20140925.0,20140926.0,Animal Owner,Oral,Tablet
-Dog,Male,12,8,Terrier - Jack Russell,Milbemycin Oxime,Outcome Unknown,20140624,2801,Lack of efficacy (endoparasite) - whipworm,201306.0,201405.0,Animal Owner,Oral,Tablet
-Dog,Female,4,11,Crossbred Canine/dog,Afoxolaner,Outcome Unknown,20150106,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20150105.0,20150105.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,6,Spaniel - King Charles Cavalier,Spinosad,Recovered with Sequela,20131014,1756,Skin disorders NOS,20130915.0,20130915.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,5,Havanese,Milbemycin Oxime,Recovered/Normal,20131010,335,Emesis,20130601.0,20130801.0,Animal Owner,Oral,Tablet
-Dog,Female,1,6,Chihuahua,Spinosad,Recovered with Sequela,20140103,302,Diarrhoea,20131021.0,20140102.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,22,Crossbred Canine/dog,Spinosad,Outcome Unknown,20140506,1039,Lack of efficacy - NOS,20140421.0,20140421.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20131025,1039,Lack of efficacy - NOS,20130624.0,20131024.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,23,Dalmatian,Spinosad,Outcome Unknown,20140224,1039,Lack of efficacy - NOS,20130913.0,20140213.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,39,Retriever - Labrador,Ivermectin,Ongoing,20140602,305,Digestive tract disorder NOS,20130412.0,20140501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,18,Retriever - Labrador,Spinosad,Recovered/Normal,20140417,335,Emesis,20140416.0,20140416.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,9,4,Terrier - Rat,Ivermectin,Outcome Unknown,20141105,960,Pruritus,20050405.0,20141009.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,6,Terrier - Boston,Spinosad,Recovered/Normal,20140404,116,Behavioural disorder NOS,20140403.0,20140403.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,24,Pit Bull,Cyclosporine A,Outcome Unknown,20140519,966,Skin lesion NOS,20140102.0,20140504.0,Animal Owner,Oral,Capsule
-Dog,Female,2,30,Shepherd,Spinosad,Recovered/Normal,20140812,335,Emesis,20130601.0,20150508.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Unknown,6,18,Chihuahua,Nitenpyram,Ongoing,20140726,302,Diarrhoea,20140725.0,20140725.0,Animal Owner,Oral,Tablet
-Dog,Female,3,16,Retriever - Labrador,Moxidectin,Recovered/Normal,20140723,1794,Stiffness NOS,20140722.0,20140722.0,Veterinarian,Subcutaneous,Suspension
-Dog,Male,3,33,Retriever - Golden,Ivermectin,Outcome Unknown,20140812,305,Digestive tract disorder NOS,20110501.0,20140712.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,27,Crossbred Canine/dog,Melarsomine Dihydrochloride,Ongoing,20210113,512,Anaphylaxis,20201204.0,20210113.0,Veterinarian,Intramuscular,Powder
-Dog,Female,11,26,Pointing Dog - German Short-haired,Milbemycin Oxime,Outcome Unknown,20201214,2798,Lack of efficacy (endoparasite) - hookworm,20191201.0,20201201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,27,German Boxer,Ivermectin,Outcome Unknown,20201215,2656,Lack of efficacy (endoparasite) - roundworm NOS,20201014.0,20201014.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,32,Retriever - Golden,Ivermectin,Recovered/Normal,20210329,2658,Lack of efficacy (ectoparasite) - tick NOS,20210302.0,20210302.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,9,Shih Tzu,Imidacloprid,Outcome Unknown,20210412,2649,Lack of efficacy (ectoparasite) - flea,20210331.0,20210331.0,Animal Owner,Topical,Solution
-Dog,Male,3,27,Pointing Dog - German Short-haired,Milbemycin Oxime,Outcome Unknown,20210714,2430,Lack of efficacy (endoparasite) - heartworm,20180901.0,20190901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,6,Spaniel - King Charles Cavalier,Milbemycin Oxime,Outcome Unknown,20210512,2656,Lack of efficacy (endoparasite) - roundworm NOS,20210401.0,20210401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,3,Maltese,Imidacloprid,Outcome Unknown,20210818,2649,Lack of efficacy (ectoparasite) - flea,20210501.0,20210501.0,Animal Owner,Topical,Solution
-Dog,Female,15,7,Dog,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20210602,686,Twitching,20210509.0,20210519.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,3,Maltese,Moxidectin,Outcome Unknown,20210818,302,Diarrhoea,20210811.0,20210811.0,Veterinarian,Unknown,Suspension
-Dog,Female,3,11,Retriever - Labrador,Florfenicol,Outcome Unknown,20210823,2082,Emesis,20210606.0,20210606.0,Veterinarian,Unknown,Solution
-Dog,Female,9,40,Bulldog,Spinosad,Recovered/Normal,20120320,335,Emesis,20120227.0,20120303.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,24,Retriever - Golden,Afoxolaner 68 Mg Chewable Tablets,Outcome Unknown,20160527,958,Itching,20160422.0,20160522.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,15,17,Hound - Basset,Afoxolaner 68 Mg Chewable Tablets,Outcome Unknown,20170110,335,Emesis,20170110.0,20170110.0,Unknown,Unknown,"Tablet, chewable"
-Dog,Male,2,40,Retriever - Labrador,Melarsomine Dihydrochloride,Outcome Unknown,20060215,93,Injection site pain,20060201.0,20060202.0,Veterinarian,Intramuscular,Suspension
-Dog,Female,9,4,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20130917,335,Emesis,20130917.0,20130917.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,6,Crossbred Canine/dog,Milbemycin Oxime,Ongoing,20130715,1039,Lack of efficacy - NOS,200906.0,201205.0,Animal Owner,Oral,Tablet
-Dog,Female,4,31,Shepherd Dog - Australian,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130827,334,Vomiting,20130814.0,20130814.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,6,Pug,Spinosad,Recovered/Normal,20130910,335,Emesis,20100629.0,20130829.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,30,Retriever - Labrador,Spinosad,Recovered/Normal,20131217,335,Emesis,20131217.0,20131217.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,2,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120808,193,Increased heart rate,201204.0,20120806.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,34,Doberman Pinscher,Spinosad,Recovered/Normal,20120516,335,Emesis,20120315.0,20120515.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,9,Beagle,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20120712,305,Digestive tract disorder NOS,20110708.0,20120601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,14,5,Shih Tzu,Spinosad,Recovered/Normal,20120905,334,Vomiting,20120802.0,20120902.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,21,Retriever - Labrador,Spinosad,Recovered/Normal,20120926,335,Emesis,20120820.0,20120820.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,12,Corgi - Welsh Cardigan,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20121217,305,Digestive tract disorder NOS,20120129.0,20121209.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,16,Spaniel (unspecified,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130306,305,Digestive tract disorder NOS,20120301.0,20130301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,18,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130405,305,Digestive tract disorder NOS,20121020.0,20130401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,17,Shepherd Dog - Australian,Spinosad,Outcome Unknown,20130214,1039,Lack of efficacy - NOS,20130101.0,20130201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,1,Chihuahua,Spinosad,Recovered/Normal,20130417,335,Emesis,20130408.0,20130408.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,2,Terrier - Yorkshire,Milbemycin Oxime,Outcome Unknown,20130307,1039,Lack of efficacy - NOS,201205.0,20130302.0,Animal Owner,Oral,Tablet
-Dog,Female,7,42,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130520,998,Decreased appetite,20130228.0,20130428.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,29,Retriever - Labrador,Spinosad,Recovered/Normal,20130604,335,Emesis,20130401.0,20130603.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,21,Retriever - Labrador,Ivermectin,Outcome Unknown,20140407,305,Digestive tract disorder NOS,20130930.0,20140401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,7,Bichon Frise,Ivermectin,Outcome Unknown,20141105,334,Vomiting,20131101.0,20141105.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,29,Retriever - Golden,Spinosad,Recovered/Normal,20140603,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20140601.0,20140601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,52,Akita,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20140729,124,Inappropriate urination,20140719.0,20140719.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,27,Retriever - Labrador,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20141209,1039,Lack of efficacy - NOS,20140915.0,20141115.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,2,Terrier - Yorkshire,Spinosad,Outcome Unknown,20141114,1039,Lack of efficacy - NOS,20121001.0,20141017.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,7,Terrier - West Highland White,Cyclosporine A,Outcome Unknown,20150102,1039,Lack of efficacy - NOS,20141229.0,20150102.0,Animal Owner,Oral,Capsule
-Dog,Female,1,4,Shih Tzu,Ivermectin,Outcome Unknown,20150114,305,Digestive tract disorder NOS,20140101.0,20141215.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,6,Crossbred Canine/dog,Spinosad,Recovered/Normal,20120319,335,Emesis,20120319.0,20120319.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,22,13,Beagle,Spinosad,Recovered/Normal,20120917,335,Emesis,20120715.0,20120915.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,35,Retriever - Labrador,Milbemycin Oxime,Ongoing,20120928,99115,"INEFFECTIVE, HEARTWORM LARVAE",201005.0,201204.0,Animal Owner,Oral,Tablet
-Dog,Male,3,7,Shih Tzu,Spinosad,Outcome Unknown,20120907,129,Vocalisation,20120801.0,20120901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,38,Greyhound,Spinosad,Outcome Unknown,20120926,1039,Lack of efficacy - NOS,20120529.0,20120829.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,8,Terrier - Jack Russell,Spinosad,Recovered/Normal,20120821,2071,General illness,20120725.0,20120725.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,7,Poodle - Toy,Spinosad,Recovered with Sequela,20130217,1760,Skin irritation,20120101.0,20130203.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,10,Spaniel - King Charles Cavalier,Spinosad,Recovered with Sequela,20130313,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20130312.0,20130312.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,10,Retriever - Labrador,Spinosad,Outcome Unknown,20130416,292,Drooling,20130101.0,20130416.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,28,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130603,305,Digestive tract disorder NOS,20120601.0,20130502.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,2,Terrier - Yorkshire,Spinosad,Outcome Unknown,20130626,2649,Lack of efficacy (ectoparasite) - flea,20110101.0,20130618.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,12,Beagle,Spinosad,Outcome Unknown,20130517,2649,Lack of efficacy (ectoparasite) - flea,20130514.0,20130514.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,12,Poodle,Spinosad,Recovered/Normal,20130801,315,Bloody diarrhoea,20130731.0,20130731.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,27,Dog,Nitenpyram,Ongoing,20141214,962,Skin sore,20141130.0,20141130.0,Animal Owner,Oral,Tablet
-Dog,Male,11,58,Dog,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130930,334,Vomiting,20130726.0,20130926.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,9,Dachshund,Spinosad,Recovered with Sequela,20130624,958,Itching,20130101.0,20130601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,9,Sheepdog - Shetland,Spinosad,Recovered/Normal,20130822,335,Emesis,20120801.0,20130822.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,27,Retriever - Labrador,Spinosad,Recovered/Normal,20130923,335,Emesis,20130918.0,20130918.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,5,Shih Tzu,Spinosad,Recovered/Normal,20130830,335,Emesis,20130618.0,20130822.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,27,Shepherd Dog - Belgian Malinois,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20131008,334,Vomiting,20131006.0,20131006.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,35,Retriever - Labrador,Spinosad,Recovered/Normal,20140304,1019,Stupor,20131117.0,20140301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,28,American Pit Bull Terrier,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20131120,302,Diarrhoea,20130915.0,20130915.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,3,Chihuahua,Spinosad,Outcome Unknown,20140623,335,Emesis,20140621.0,20140621.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,27,Shepherd Dog - German,Milbemycin Oxime,Recovered/Normal,20140723,335,Emesis,20140301.0,20140401.0,Animal Owner,Oral,Tablet
-Dog,Female,12,9,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20150422,305,Digestive tract disorder NOS,20120101.0,20150401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,14,Beagle,Fluralaner Chew Tablets,Outcome Unknown,20160513,2658,Lack of efficacy (ectoparasite) - tick NOS,20150611.0,20160308.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,4,Terrier - Yorkshire,Spinosad,Outcome Unknown,20160129,2649,Lack of efficacy (ectoparasite) - flea,20130101.0,20151231.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,4,Poodle - Toy,Spinosad,Recovered/Normal,20150914,334,Vomiting,20130101.0,20150914.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,16,18,Retriever - Labrador,Spinosad,Outcome Unknown,20150918,1039,Lack of efficacy - NOS,201406.0,201408.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,26,Pointing Dog - German Short-haired,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20150323,1039,Lack of efficacy - NOS,20150224.0,20150224.0,Animal Owner,Oral,Tablet
-Dog,Male,7,2,Maltese,Spinosad,Outcome Unknown,20150618,1039,Lack of efficacy - NOS,20150618.0,20150618.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,12,4,Terrier - Jack Russell,Fluralaner Chew Tablets,Outcome Unknown,20150824,2649,Lack of efficacy (ectoparasite) - flea,20150618.0,20150618.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,6,Shih Tzu,Ivermectin,Outcome Unknown,20150505,305,Digestive tract disorder NOS,20140520.0,20150501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,11,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20150706,302,Diarrhoea,20150627.0,20150627.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,8,Chihuahua,Spinosad,Recovered/Normal,20151106,334,Vomiting,20140801.0,20150901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,35,Retriever - Golden,Spinosad,Recovered/Normal,20150831,334,Vomiting,20110701.0,20150806.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,17,18,Coonhound - Black and Tan,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20150515,334,Vomiting,20150501.0,20150501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,33,Retriever - Labrador,Ivermectin,Outcome Unknown,20160309,305,Digestive tract disorder NOS,20110401.0,20160201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,33,Shepherd Dog - German,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20151222,2657,Lack of efficacy (endoparasite) - tapeworm,20151125.0,20151125.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,25,Hound,Ivermectin,Outcome Unknown,20160415,305,Digestive tract disorder NOS,20140623.0,20160401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,33,Retriever - Labrador,Fluralaner Chew Tablets,Outcome Unknown,20160621,996,Anorexia,20160620.0,20160620.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,31,Crossbred Canine/dog,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20160315,2801,Lack of efficacy (endoparasite) - whipworm,20160301.0,20160301.0,Animal Owner,Oral,Tablet
-Dog,Female,2,26,Pit Bull,Spinosad,Recovered/Normal,20160709,334,Vomiting,20140701.0,20160709.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,30,Pit Bull,Spinosad,Ongoing,20160915,1492,Generalised itching,20160815.0,20160815.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,4,41,German Boxer,Ivermectin,Recovered with Sequela,20161028,202,Cardiac disorder NOS,20151217.0,20160617.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,8,3,Maltese,Spinosad,Outcome Unknown,20170215,2649,Lack of efficacy (ectoparasite) - flea,20160101.0,20170101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,12,Dachshund,Ivermectin,Outcome Unknown,20170103,305,Digestive tract disorder NOS,20160901.0,20161201.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,9,3,Chihuahua,Sarolaner,Ongoing,20170404,645,Seizure NOS,20170403.0,20170403.0,Veterinarian,Oral,"Tablet, chewable"
-Dog,Female,4,2,Chihuahua,Nitenpyram,Ongoing,20170729,1974,Excessive licking and/or grooming,20170729.0,20170729.0,Other,Oral,Tablet
-Dog,Female,23,19,Great Pyrenees,Sarolaner,Recovered/Normal,20170627,334,Vomiting,20170622.0,20170622.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,31,Retriever - Labrador,Spinosad,Outcome Unknown,20170531,468,Ocular discharge,20170517.0,20170517.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,21,10,Terrier - Yorkshire,Afoxolaner,Outcome Unknown,20180928,1533,Increased salivation,20180227.0,20180901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,34,Retriever - Labrador,Ivermectin,Outcome Unknown,20190215,2656,Lack of efficacy (endoparasite) - roundworm NOS,20100804.0,20190125.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,5,Crossbred Canine/dog,Imidacloprid,Outcome Unknown,20170723,1080,Mucous stool,20170722.0,20170722.0,Animal Owner,Topical,Solution
-Dog,Male,7,39,Retriever - Labrador,Spinosad,Ongoing,20170809,1221,Other abnormal test result NOS,20120524.0,20170701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Mixed,8,30,Shepherd Dog - German,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20170718,334,Vomiting,20170717.0,20170717.0,Animal Owner,Oral,Tablet
-Dog,Male,5,38,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20180215,334,Vomiting,20170101.0,20171207.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,4,Dachshund,Nitenpyram,Outcome Unknown,20180508,334,Vomiting,20180504.0,20180504.0,Animal Owner,Oral,Tablet
-Dog,Female,12,4,Spitz - German Pomeranian,Sarolaner,Ongoing,20180306,302,Diarrhoea,20180305.0,20180305.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,31,Retriever - Labrador,Afoxolaner,Outcome Unknown,20180319,315,Bloody diarrhoea,20180314.0,20180314.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,35,Retriever - Labrador,Ivermectin,Outcome Unknown,20180730,99115,"INEFFECTIVE, HEARTWORM LARVAE",20150106.0,20180701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,32,Bulldog,Spinosad,Outcome Unknown,20180424,99112,"INEFFECTIVE, HOOKS",20171001.0,20180324.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,4,30,Crossbred Canine/dog,Spinosad,Recovered/Normal,20180515,334,Vomiting,20180101.0,20180515.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,36,Dog,Milbemycin Oxime,Recovered/Normal,20180905,1200,Hot spot (pyotraumatic dermatitis),20180801.0,20180801.0,Animal Owner,Oral,Tablet
-Dog,Male,2,4,Bichon Frise,Spinosad,Recovered/Normal,20180806,2501,Increased yawning,20180302.0,20180803.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,7,Terrier - Jack Russell,Lotilaner,Recovered/Normal,20200717,334,Vomiting,20200717.0,20200717.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,24,German Boxer,Ivermectin,Recovered with Sequela,20200316,2430,Lack of efficacy (endoparasite) - heartworm,20190402.0,20200301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,34,Retriever - Labrador,Afoxolaner,Recovered/Normal,20190405,334,Vomiting,20190401.0,20190401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,8,Schnauzer - Miniature,Oclacitinib Maleate,Outcome Unknown,20190701,334,Vomiting,20180701.0,20180705.0,Animal Owner,Oral,Tablet
-Dog,Male,4,17,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20191015,1221,Other abnormal test result NOS,20181001.0,20190901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,19,32,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20200113,2430,Lack of efficacy (endoparasite) - heartworm,20190201.0,20190701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,6,Terrier - Boston,Selamectin,Ongoing,20190930,99112,"INEFFECTIVE, HOOKS",20190925.0,20190925.0,Animal Owner,Topical,Solution
-Dog,Female,2,15,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20200513,2430,Lack of efficacy (endoparasite) - heartworm,20190103.0,20190601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,9,Terrier,Trilostane,Outcome Unknown,20201127,687,Trembling,20201012.0,20201125.0,Animal Owner,Oral,Capsule
-Dog,Female,14,1,Chihuahua,Spinosad,Outcome Unknown,20200403,1043,Weight loss,20150101.0,20190301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,28,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20190122,2656,Lack of efficacy (roundworm),20170801.0,20190101.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,2,Chihuahua,Nitenpyram,Outcome Unknown,20190822,2649,Lack of efficacy (flea),20190815.0,20190820.0,Animal Owner,Oral,Tablet
-Dog,Male,12,4,Chihuahua,Ivermectin,Recovered/Normal,20210510,334,Vomiting,20210509.0,20210509.0,Patient,Oral,"Tablet, chewable"
-Dog,Female,13,2,Chihuahua,Maropitant Citrate,Outcome Unknown,20210826,1039,Lack of efficacy - NOS,20210826.0,20210826.0,Veterinarian,Unknown,Injection
-Dog,Female,2,18,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20210517,2656,Lack of efficacy (endoparasite) - roundworm NOS,20210428.0,20210428.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,15,7,Spaniel - King Charles Cavalier,Moxidectin,Recovered/Normal,20200526,512,Anaphylaxis,20200522.0,20200522.0,Unknown,Subcutaneous,Suspension
-Dog,Male,13,20,Crossbred Canine/dog,Imidacloprid,Outcome Unknown,20200615,119,Restlessness,20200414.0,20200414.0,Animal Owner,Topical,Solution
-Dog,Male,2,22,Collie - Border,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20120725,202,Cardiac disorder NOS,20110901.0,20120701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,4,Chihuahua,Pyrantel Pamoate,Outcome Unknown,20210326,334,Vomiting,20210325.0,20210325.0,Patient,Oral,"Tablet, chewable"
-Dog,Male,3,4,Terrier - Yorkshire,Spinosad,Outcome Unknown,20120412,2649,Lack of efficacy (ectoparasite) - flea,20100101.0,20120327.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,50,Akita,Spinosad,Recovered with Sequela,20130114,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20120501.0,20130113.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,39,Retriever - Labrador,Milbemycin Oxime,Ongoing,20130125,99115,"INEFFECTIVE, HEARTWORM LARVAE",201102.0,201201.0,Animal Owner,Oral,Tablet
-Dog,Female,4,27,Greyhound,Moxidectin,Recovered/Normal,20210702,2798,Lack of efficacy (endoparasite) - hookworm,20210129.0,20210129.0,Unknown,Subcutaneous,Suspension
-Dog,Male,7,25,Shepherd,Pyrantel Pamoate;Sarolaner,Ongoing,20210806,966,Skin lesion NOS,20210801.0,20210801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,18,32,Rottweiler,Spinosad,Outcome Unknown,20120823,884,Cough,20120821.0,20120821.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,4,Terrier - Jack Russell,Spinosad,Recovered/Normal,20130807,302,Diarrhoea,20120101.0,20130805.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,42,Cattle Dog,Afoxolaner 136 Mg Chewable Tablets,Recovered/Normal,20160314,948,Erythema (for urticaria see Immune SOC),20160125.0,20160307.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,17,Crossbred Canine/dog,Spinosad,Outcome Unknown,20140120,1039,Lack of efficacy - NOS,20140117.0,20140117.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,12,3,American Pit Bull Terrier,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20120607,273,Tenesmus,20120605.0,20120605.0,Animal Owner,Oral,Tablet
-Dog,Female,22,9,Beagle,Spinosad,Recovered/Normal,20130305,335,Emesis,20120705.0,20130301.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,8,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20130327,305,Digestive tract disorder NOS,20080315.0,20130315.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,16,Dog (other,Spinosad,Recovered/Normal,20120210,335,Emesis,20120109.0,20120209.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,30,Retriever - Labrador,Spinosad,Recovered/Normal,20131127,335,Emesis,20090601.0,20131125.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,5,Shih Tzu,Spinosad,Recovered/Normal,20130425,334,Vomiting,20120723.0,20130423.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,4,Chihuahua,Selamectin,Outcome Unknown,20131028,2649,Lack of efficacy (ectoparasite) - flea,20130801.0,20131001.0,Animal Owner,Topical,Solution
-Dog,Male,5,9,Retriever - Labrador,Spinosad,Recovered/Normal,20140723,335,Emesis,20140709.0,20140709.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,8,Terrier - Boston,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20120717,305,Digestive tract disorder NOS,20070101.0,20120701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,16,20,Crossbred Canine/dog,Spinosad,Outcome Unknown,20120822,1039,Lack of efficacy - NOS,20110701.0,20120801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,24,Shepherd Dog - German,Milbemycin Oxime,Recovered/Normal,20130603,99115,"INEFFECTIVE, HEARTWORM LARVAE",201204.0,201211.0,Animal Owner,Oral,Tablet
-Dog,Female,21,8,Bulldog - French,Spinosad,Recovered/Normal,20130814,335,Emesis,20121201.0,20130801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,10,Shih Tzu,Trilostane,Outcome Unknown,20130128,718,Polyuria,20120128.0,20130201.0,Animal Owner,Oral,Capsule
-Dog,Female,7,27,Hound,Spinosad,Recovered/Normal,20140422,335,Emesis,20120801.0,20140422.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,15,Hound - Basset,Maropitant Citrate,Ongoing,20130703,654,Ataxia,20130703.0,20130703.0,Veterinarian,Subcutaneous,Injection
-Dog,Female,8,11,Crossbred Canine/dog,Spinosad,Recovered/Normal,20130819,2082,Emesis,20130118.0,20130818.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,14,28,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130918,305,Digestive tract disorder NOS,20130228.0,20130830.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,18,37,Retriever - Labrador,Spinosad,Recovered/Normal,20140619,335,Emesis,20130301.0,20140601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,35,Retriever - Labrador,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20141208,1039,Lack of efficacy - NOS,20141201.0,20141201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,11,Retriever - Labrador,Spinosad,Recovered/Normal,20140127,269,Flatulence,20130115.0,20140117.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,18,19,Shepherd Dog - German,Melarsomine Dihydrochloride Injection,Outcome Unknown,20141205,92,Injection site lump,20141011.0,20141111.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,7,6,Poodle - Miniature,Nitenpyram,Ongoing,20140813,1039,Lack of efficacy - NOS,200801.0,20140701.0,Animal Owner,Oral,Tablet
-Dog,Male,11,9,Mixed (Dog,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20150118,1171,Laboured breathing,20150118.0,20150118.0,Animal Owner,Oral,Tablet
-Dog,Male,14,27,Retriever - Labrador,Afoxolaner,Outcome Unknown,20150702,334,Vomiting,20150601.0,20150601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,3,Spitz - German Pomeranian,Ivermectin,Outcome Unknown,20150313,305,Digestive tract disorder NOS,20141224.0,20150215.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,1,7,Dachshund,Moxidectin,Recovered/Normal,20150414,334,Vomiting,20150402.0,20150402.0,Veterinarian,Subcutaneous,Suspension
-Dog,Female,11,10,Terrier,Spinosad,Recovered/Normal,20160208,334,Vomiting,20160208.0,20160208.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,9,10,Terrier - Boston,Afoxolaner,Outcome Unknown,20151215,2050,Elevated alanine aminotransferase (ALT),20150501.0,20151130.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,15,Collie - Border,Spinosad,Outcome Unknown,20160201,334,Vomiting,20140801.0,20140801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,29,Mixed (Dog,Melarsomine Dihydrochloride Injection,Ongoing,20160115,129,Vocalisation,20160114.0,20160114.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,8,7,Havanese,Carprofen,Ongoing,20160506,1346,Bladder incontinence,20160325.0,20160420.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,4,Maltese,Oclacitinib Maleate,Ongoing,20170822,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20170803.0,20170821.0,Animal Owner,Oral,Tablet
-Dog,Male,3,30,Greyhound,Ivermectin,Outcome Unknown,20150911,305,Digestive tract disorder NOS,20150101.0,20150801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,3,Chihuahua,Spinosad,Ongoing,20161110,1207,Not eating,20140601.0,20161109.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,14,Hound - Basset,Afoxolaner,Outcome Unknown,20160715,645,Seizure NOS,20160714.0,20160714.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,7,31,Retriever - Labrador,Florfenicol,Outcome Unknown,20151008,1039,Lack of efficacy - NOS,20150911.0,20150917.0,Veterinarian,Auricular (Otic),Gel
-Dog,Female,8,40,Retriever - Labrador,Melarsomine Dihydrochloride Injection,Outcome Unknown,20150323,855,Panting,20150323.0,20150323.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,12,7,Maltese,Spinosad,Outcome Unknown,20150929,1039,Lack of efficacy - NOS,20110701.0,20150917.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,14,9,Schnauzer - Miniature,Afoxolaner,Died,20161129,334,Vomiting,20161011.0,20161111.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,6,16,Beagle,Ivermectin,Outcome Unknown,20150702,2798,Lack of efficacy (endoparasite) - hookworm,20130701.0,20150609.0,Unknown,Oral,Tablet
-Dog,Female,3,33,Shepherd Dog - German,Spinosad,Outcome Unknown,20151130,99115,"INEFFECTIVE, HEARTWORM LARVAE",20120821.0,201510.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,14,18,American Pit Bull Terrier,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20151019,2801,Lack of efficacy (endoparasite) - whipworm,20151003.0,20151003.0,Animal Owner,Oral,Tablet
-Dog,Female,5,23,Retriever - Golden,Ivermectin,Ongoing,20170608,305,Digestive tract disorder NOS,20160801.0,20170606.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,4,26,German Boxer,Afoxolaner,Outcome Unknown,20160329,334,Vomiting,20150301.0,20160328.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,12,17,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20170321,305,Digestive tract disorder NOS,20040816.0,20170301.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,2,27,Poodle - Standard,Ivermectin,Outcome Unknown,20180213,2656,Lack of efficacy (endoparasite) - roundworm NOS,20171219.0,20180117.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,11,Beagle,Ivermectin,Recovered with Sequela,20171019,99115,"INEFFECTIVE, HEARTWORM LARVAE",20150818.0,20171001.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,2,14,Shepherd Dog - German,Melarsomine Dihydrochloride Injection,Outcome Unknown,20170107,999,Inappetence,20170104.0,20170105.0,Unknown,Intramuscular,Suspension
-Dog,Female,8,4,Dog,Pyrantel Pamoate,Outcome Unknown,20180814,334,Vomiting,20180813.0,20180813.0,Patient,Oral,"Tablet, chewable"
-Dog,Male,4,6,Shih Tzu,Ivermectin,Outcome Unknown,20160505,305,Digestive tract disorder NOS,20120329.0,20160423.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,3,43,Shepherd Dog - German,Ivermectin,Recovered with Sequela,20170315,202,Cardiac disorder NOS,20160608.0,20170301.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,6,27,Retriever - Labrador,Afoxolaner,Recovered/Normal,20170406,334,Vomiting,20160114.0,20170406.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,11,2,Maltese,Afoxolaner,Outcome Unknown,20171002,315,Bloody diarrhoea,20170922.0,20170922.0,Unknown,Oral,"Tablet, chewable"
-Dog,Female,12,12,Shepherd Dog - German,"Milbemycin Oxime, Lufenuron",Euthanized,20160909,645,Seizure NOS,20160908.0,20160908.0,Animal Owner,Oral,Tablet
-Dog,Male,5,31,Crossbred Canine/dog,Ivermectin,Recovered with Sequela,20190430,2430,Lack of efficacy (endoparasite) - heartworm,20180324.0,20190401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,29,Collie - Border,Ivermectin,Outcome Unknown,20180510,99112,"INEFFECTIVE, HOOKS",20100501.0,20180501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,15,Sheepdog - Shetland,Oclacitinib Maleate,Ongoing,20180329,645,Seizure NOS,20180131.0,20180330.0,Animal Owner,Oral,Tablet
-Dog,Female,10,13,Beagle,Ivermectin,Outcome Unknown,20180718,99112,"INEFFECTIVE, HOOKS",20171004.0,20180620.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,24,Crossbred Canine/dog,Lotilaner,Recovered/Normal,20181112,334,Vomiting,20181112.0,20181112.0,Other,Oral,"Tablet, chewable"
-Dog,Male,6,35,"Deutsche Dogge, Great Dane",Afoxolaner,Outcome Unknown,20180911,302,Diarrhoea,20180430.0,20180829.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,19,Retriever - Golden,Spinosad,Ongoing,20171114,334,Vomiting,20130101.0,20170801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,34,Shepherd Dog - German,Oclacitinib Maleate,Outcome Unknown,20190507,113,Aggression,20190430.0,20190506.0,Animal Owner,Oral,Tablet
-Dog,Male,7,18,Corgi - Welsh Cardigan,Milbemycin Oxime,Outcome Unknown,20180222,2656,Lack of efficacy (roundworm),20160330.0,20180201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,2,Chihuahua,Imidacloprid,Outcome Unknown,20190121,1942,Elevated liver enzymes,20190115.0,20190115.0,Animal Owner,Topical,Solution
-Dog,Male,2,37,Retriever - Golden,Milbemycin Oxime,Outcome Unknown,20190708,2430,Lack of efficacy (endoparasite) - heartworm,20170901.0,20190601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,10,4,Chihuahua,Afoxolaner,Outcome Unknown,20200708,958,Itching,20200613.0,20200613.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,27,Spaniel (unspecified,Afoxolaner,Outcome Unknown,20200918,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20200629.0,20200629.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,21,37,Hound - Basset,Ivermectin,Outcome Unknown,20210506,2430,Lack of efficacy (endoparasite) - heartworm,20200316.0,20210501.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,22,5,Crossbred Canine/dog,Moxidectin,Ongoing,20191030,2430,Lack of efficacy (endoparasite) - heartworm,20181107.0,20190507.0,Unknown,Subcutaneous,Suspension
-Dog,Male,5,46,Retriever - Golden,Ivermectin,Outcome Unknown,20210113,1050,Weight gain,20160102.0,20210102.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,33,Shepherd Dog - German,Spinosad,Outcome Unknown,20190129,2430,Lack of efficacy (endoparasite) - heartworm,20161101.0,20181201.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,3,34,Pit Bull,Milbemycin Oxime,Ongoing,20200113,654,Ataxia,20200109.0,20200109.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,17,Bulldog,Florfenicol,Outcome Unknown,20191119,654,Ataxia,20191112.0,20191112.0,Veterinarian,Unknown,Solution
-Dog,Female,8,43,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20201104,1018,Lethargy (see also Central nervous system depression in 'Neurological'),20200610.0,20201103.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,10,17,Beagle,Milbemycin Oxime,Outcome Unknown,20181009,99115,"INEFFECTIVE, HEARTWORM LARVAE",20170502.0,20180901.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,2,Chihuahua,Spinosad,Recovered/Normal,20200210,334,Vomiting,20180601.0,20200209.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,17,12,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20191009,99112,"INEFFECTIVE, HOOKS",20191001.0,20191001.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,13,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20191203,334,Vomiting,20191202.0,20191202.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,17,26,Retriever - Labrador,Ivermectin,Outcome Unknown,20190320,99112,"INEFFECTIVE, HOOKS",20180122.0,20180221.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,5,Terrier - West Highland White,Ivermectin,Ongoing,20200623,2656,Lack of efficacy (endoparasite) - roundworm NOS,20200601.0,20200601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,6,28,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20190205,99112,"INEFFECTIVE, HOOKS",20130701.0,20190104.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,6,Unknown,Carprofen,Outcome Unknown,20210818,335,Emesis,20210811.0,20210815.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,20,Crossbred Canine/dog,Spinosad,Recovered/Normal,20200701,334,Vomiting,20200701.0,20200701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,11,9,Doberman Pinscher,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20201221,657,Stumbling gait,20201215.0,20201215.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,5,5,Terrier - Yorkshire,Spinosad,Recovered/Normal,20130429,334,Vomiting,20130301.0,20130401.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,2,72,"Deutsche Dogge, Great Dane",Ivermectin,Ongoing,20210328,1745,Muscle shaking,20210327.0,20210327.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,13,22,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Cyclosporine A,Outcome Unknown,20120329,1221,Other abnormal test result NOS,20111208.0,20120327.0,Animal Owner,Oral,Capsule
-Dog,Female,1,6,Poodle,Spinosad,Recovered/Normal,20110826,125,Self trauma,20110825.0,20110825.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,8,4,Terrier - Jack Russell,Spinosad,Outcome Unknown,20130731,2649,Lack of efficacy (ectoparasite) - flea,20130701.0,20130701.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,29,Great Pyrenees,Pyrantel Pamoate;Sarolaner,Ongoing,20210603,2798,Lack of efficacy (endoparasite) - hookworm,20210415.0,20210515.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,6,Terrier - West Highland White,Imidacloprid,Outcome Unknown,20210104,334,Vomiting,20201230.0,20201230.0,Animal Owner,Topical,Solution
-Dog,Male,3,31,Coonhound - Black and Tan,Melarsomine Dihydrochloride,Outcome Unknown,20200310,91,Injection site swelling,20200309.0,20200309.0,Veterinarian,Intramuscular,Suspension
-Dog,Male,8,24,Collie - Border,Milbemycin Oxime,Ongoing,20200417,302,Diarrhoea,20180101.0,20200416.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,7,Schnauzer (unspecified,Ivermectin,Ongoing,20200618,2656,Lack of efficacy (endoparasite) - roundworm NOS,20200531.0,20200531.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,12,Retriever - Labrador,Sarolaner,Outcome Unknown,20210706,1971,Hair shedding,20210612.0,20210612.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,4,4,Terrier,Spinosad,Recovered/Normal,20121016,334,Vomiting,20121007.0,20121012.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,7,12,Mountain Cur,Moxidectin,Ongoing,20201015,2430,Lack of efficacy (endoparasite) - heartworm,20191010.0,20191010.0,Veterinarian,Subcutaneous,Suspension
-Dog,Female,2,40,Shepherd Dog - German,Afoxolaner 136 Mg Chewable Tablets,Outcome Unknown,20170821,302,Diarrhoea,20170818.0,20170818.0,Unknown,Oral,"Tablet, chewable"
-Dog,Male,2,11,Hound,Nitenpyram,Outcome Unknown,20210905,2649,Lack of efficacy (ectoparasite) - flea,20210810.0,20210817.0,Animal Owner,Oral,Tablet
-Dog,Male,2,32,Greyhound,Milbemycin Oxime,Outcome Unknown,20201116,302,Diarrhoea,20200616.0,20200616.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,13,Bulldog,Afoxolaner,Recovered/Normal,20210105,654,Ataxia,20201210.0,20201210.0,Animal Owner,Unknown,"Tablet, chewable"
-Dog,Male,8,5,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20110810,855,Panting,20110810.0,20110810.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,9,29,Shepherd Dog - German,Spinosad,Recovered/Normal,20130220,313,Gastroenteritis,20120401.0,20120801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,6,34,Retriever - Labrador,Spinosad,Outcome Unknown,20130325,140,Not sleeping,20120922.0,20130321.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,6,Terrier - Jack Russell,Spinosad,Outcome Unknown,20130916,2649,Lack of efficacy (ectoparasite) - flea,20130830.0,20130830.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,30,Collie (unspecified,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20130724,2798,Lack of efficacy (endoparasite) - hookworm,20130705.0,20130705.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,7,30,American Pit Bull Terrier,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20120402,837,Abnormal breathing,20120401.0,20120401.0,Other,Oral,"Tablet, chewable"
-Dog,Female,11,2,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120815,334,Vomiting,20120814.0,20120814.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,8,Dachshund,Spinosad,Recovered/Normal,20120620,334,Vomiting,20120101.0,20120720.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Unknown,17,46,Shepherd Dog - German,Spinosad,Outcome Unknown,20140701,1039,Lack of efficacy - NOS,20130209.0,20140601.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,58,Mastiff,Spinosad,Outcome Unknown,20140319,292,Drooling,20130915.0,20140318.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,5,19,Collie - Border,Spinosad,Outcome Unknown,20140425,304,Loose stool,20111001.0,20140420.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,2,5,Terrier - Yorkshire,Spinosad,Recovered/Normal,20121127,335,Emesis,20120615.0,20121126.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,4,Spaniel - Cocker American,Spinosad,Recovered/Normal,20110907,335,Emesis,20110903.0,20110903.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,14,20,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130523,305,Digestive tract disorder NOS,20130301.0,20130507.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Male,8,20,Spaniel - Cocker American,Fluralaner Chew Tablets,Outcome Unknown,20140804,1039,Lack of efficacy - NOS,20140707.0,20140707.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,3,1,Chihuahua,Moxidectin,Outcome Unknown,20130219,334,Vomiting,20130209.0,20130209.0,Veterinarian,Subcutaneous,Suspension
-Dog,Female,2,9,Beagle,Spinosad,Recovered/Normal,20120405,334,Vomiting,20120405.0,20120405.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,11,9,Beagle,Spinosad,Outcome Unknown,20130906,1039,Lack of efficacy - NOS,20121101.0,20130801.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,1,4,Dachshund,Spinosad,Recovered with Sequela,20140430,334,Vomiting,20130915.0,20140419.0,Animal Owner,Oral,"Tablet, chewable"
-Dog,Female,4,29,Crossbred Canine/dog,Spinosad,Recovered/Normal,20140407,119,Restlessness,20140405.0,20140405.0,Animal Owner,Oral,"Tablet, chewable"
+species,gender,age,weight,breed,drug,outcome,date_in,react_term_code,react_term_name,admin_by,route,dosage_form,updated_first_exp,updated_last_exp
+Dog,Female,7,5,Terrier - West Highland White,Spinosad,Recovered/Normal,20120627,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-03-27,2012-06-27
+Dog,Female,14,7,Schnauzer (unspecified,Spinosad,Recovered/Normal,20110928,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2011-09-23,2011-09-23
+Dog,Male,14,36,Doberman Pinscher,Ivermectin,Outcome Unknown,20150203,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2015-02-01,2015-02-01
+Dog,Female,5,39,German Boxer,Imidacloprid,Outcome Unknown,20160420,2082,Emesis,Other,Other,Solution,2016-04-20,2016-04-20
+Dog,Male,9,5,Poodle - Miniature,Ivermectin,Outcome Unknown,20150319,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-12-01,2015-03-01
+Dog,Male,10,33,Retriever - Golden,Moxidectin,Outcome Unknown,20150612,130,Crying,Veterinarian,Subcutaneous,Suspension,2015-06-11,2015-06-11
+Dog,Male,5,20,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20150730,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2010-01-01,2015-07-01
+Dog,Female,2,22,Shepherd Dog - Australian,Nitenpyram,Ongoing,20150625,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2015-06-18,2015-06-20
+Dog,Female,2,27,Pit Bull,Melarsomine Dihydrochloride Injection,Outcome Unknown,20151015,334,Vomiting,Veterinarian,Intramuscular,Suspension,2015-10-13,2015-10-14
+Dog,Female,9,1,Spitz - German Pomeranian,Spinosad,Outcome Unknown,20150603,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2015-05-14,2015-05-14
+Dog,Female,9,6,Dalmatian,Spinosad,Recovered/Normal,20150731,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-06-30,2015-06-30
+Dog,Female,8,28,German Boxer,Spinosad,Recovered/Normal,20151027,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-09-01,2015-10-27
+Dog,Male,8,5,Dachshund - Miniature,Spinosad,Outcome Unknown,20151110,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2013-11-01,2015-11-01
+Dog,Female,1,4,Maltese,Fluralaner Chew Tablets,Outcome Unknown,20151007,2658,Lack of efficacy (ectoparasite) - tick NOS,Animal Owner,Oral,"Tablet, chewable",2015-08-19,2015-08-19
+Dog,Female,3,6,Schnauzer - Miniature,Afoxolaner,Recovered/Normal,20151007,1492,Generalised itching,Animal Owner,Oral,"Tablet, chewable",2015-07-31,2015-08-31
+Dog,Female,8,8,Chihuahua,Spinosad,Outcome Unknown,20160112,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2011-08-01,2016-01-01
+Dog,Male,1,2,Poodle - Toy,Afoxolaner,Outcome Unknown,20160511,1756,Skin disorders NOS,Unknown,Oral,"Tablet, chewable",2016-05-01,2016-05-01
+Dog,Female,2,4,Maltese,Spinosad,Outcome Unknown,20160517,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2016-04-01,2016-05-03
+Dog,Male,8,9,Terrier - Boston,Spinosad,Recovered/Normal,20160315,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2016-03-03,2016-03-03
+Dog,Female,16,12,Retriever - Labrador,Spinosad,Outcome Unknown,20151201,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2015-01-20,2015-07-20
+Dog,Male,10,15,Sheepdog - Shetland,Melarsomine Dihydrochloride Injection,Died,20160418,1012,Pain NOS,Veterinarian,Intramuscular,Suspension,2016-02-10,2016-04-15
+Dog,Male,5,19,Retriever - Labrador,Sarolaner,Outcome Unknown,20171205,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2017-11-01,2017-12-02
+Dog,Female,6,4,Maltese,Spinosad,Ongoing,20170925,99951,UNPALATABLE,Animal Owner,Oral,"Tablet, chewable",2011-01-01,2017-06-01
+Dog,Male,8,17,Pit Bull,Spinosad,Recovered/Normal,20161109,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2016-11-08,2016-11-08
+Dog,Male,3,10,Terrier - Jack Russell,Spinosad,Recovered/Normal,20160418,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2016-04-16,2016-04-16
+Dog,Male,4,32,Retriever - Labrador,Ivermectin,Outcome Unknown,20160804,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2015-08-04,2016-07-01
+Dog,Female,16,34,Retriever - Labrador,Ivermectin,Outcome Unknown,20160901,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2016-02-01,2016-08-16
+Dog,Male,7,43,Retriever - Labrador,Ivermectin,Outcome Unknown,20160610,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2015-05-01,2016-05-15
+Dog,Female,4,19,Crossbred Canine/dog,Spinosad,Outcome Unknown,20160906,99951,UNPALATABLE,Animal Owner,Oral,"Tablet, chewable",2016-07-02,2016-09-02
+Dog,Male,3,36,Retriever - Labrador,Ivermectin,Outcome Unknown,20160802,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2016-01-07,2016-07-15
+Dog,Male,2,15,Hound,Ivermectin,Recovered with Sequela,20161102,99115,"INEFFECTIVE, HEARTWORM LARVAE",Unknown,Oral,"Tablet, chewable",2015-11-21,2016-10-01
+Dog,Female,6,32,Retriever - Labrador,Ivermectin,Recovered/Normal,20160929,645,Seizure NOS,Unknown,Oral,"Tablet, chewable",2014-09-10,2016-08-13
+Dog,Female,2,4,Maltese,Ivermectin,Ongoing,20170314,304,Loose stool,Unknown,Oral,Tablet,2017-03-13,2017-03-13
+Dog,Female,7,2,Terrier - Yorkshire,Sarolaner,Outcome Unknown,20160929,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2016-09-15,2016-09-15
+Dog,Male,2,29,Shepherd Dog - German,Ivermectin,Outcome Unknown,20170614,202,Cardiac disorder NOS,Unknown,Oral,"Tablet, chewable",2016-03-07,2017-06-01
+Dog,Female,10,3,Terrier,Milbemycin Oxime,Outcome Unknown,20170405,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2008-01-01,2017-01-01
+Dog,Male,16,24,Mountain Cur,Spinosad,Outcome Unknown,20170116,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2016-02-10,2016-10-01
+Dog,Male,1,28,Retriever - Labrador,Moxidectin,Ongoing,20181002,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Veterinarian,Subcutaneous,Suspension,2018-09-11,2018-09-11
+Dog,Female,6,32,Hound,Afoxolaner,Outcome Unknown,20190114,2648,Lack of efficacy (bacteria) - NOS,Animal Owner,Oral,"Tablet, chewable",2018-03-12,2019-01-01
+Dog,Female,11,11,Terrier - Boston,Ivermectin,Outcome Unknown,20190204,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2012-06-22,2019-01-26
+Dog,Male,2,42,Shepherd Dog - German,Spinosad,Outcome Unknown,20181001,2430,Lack of efficacy (heartworm),Animal Owner,Oral,"Tablet, chewable",2016-04-15,2018-09-01
+Dog,Male,11,14,Dog,Pyrantel Pamoate,Recovered/Normal,20190304,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-03-03,2019-03-03
+Dog,Male,10,15,Shepherd Dog - Australian,Afoxolaner,Recovered/Normal,20190517,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-05-13,2019-05-13
+Dog,Female,14,18,Collie - Border,Spinosad,Outcome Unknown,20170907,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-04-09,2017-06-01
+Dog,Male,3,6,Pug,Imidacloprid,Recovered/Normal,20180209,116,Behavioural disorder NOS,Animal Owner,Topical,Solution,2018-02-09,2018-02-09
+Dog,Female,7,8,Dachshund,Ivermectin,Outcome Unknown,20171130,99112,"INEFFECTIVE, HOOKS",Unknown,Oral,"Tablet, chewable",2017-09-01,2017-11-26
+Dog,Male,9,26,Beagle,Ivermectin,Outcome Unknown,20180430,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2016-11-07,2018-04-01
+Dog,Male,5,4,Maltese,Oclacitinib Maleate,Outcome Unknown,20180626,2026,Urinary tract infection,Animal Owner,Oral,Tablet,2018-06-09,2018-06-23
+Dog,Female,6,35,Weimaraner,Milbemycin Oxime,Outcome Unknown,20181017,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,Tablet,2015-03-02,2018-09-01
+Dog,Male,14,8,Spitz - German Pomeranian,Selamectin,Outcome Unknown,20180802,884,Cough,Animal Owner,Topical,Solution,2013-01-01,2018-07-29
+Dog,Male,4,9,Shepherd Dog - Australian,Ivermectin,Ongoing,20200629,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2020-06-21,2020-06-21
+Dog,Female,6,9,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20200514,99158,"INEFFECTIVE, WHIPS",Animal Owner,Oral,"Tablet, chewable",2020-04-01,2020-04-01
+Dog,Female,10,20,Hound - Basset,Ivermectin,Outcome Unknown,20200814,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2020-08-01,2020-08-01
+Dog,Female,6,22,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20190607,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2019-03-01,2019-05-21
+Dog,Male,2,25,Cattle Dog,Milbemycin Oxime,Outcome Unknown,20190829,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,Tablet,2017-12-15,2019-07-15
+Dog,Female,15,15,Crossbred Canine/dog,Ivermectin,Recovered with Sequela,20191008,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-10-16,2019-10-01
+Dog,Male,10,67,"Deutsche Dogge, Great Dane",Grapiprant,Outcome Unknown,20200109,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2018-01-09,2020-01-09
+Dog,Male,4,6,Terrier,Moxidectin,Ongoing,20191111,2436,Lack of efficacy (endoparasite) - NOS,Unknown,Subcutaneous,Suspension,2019-05-06,2019-05-06
+Dog,Female,3,18,Beagle,Spinosad,Outcome Unknown,20190715,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2018-07-16,2019-05-13
+Dog,Female,4,30,Pit Bull,Spinosad,Outcome Unknown,20190411,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2015-09-14,2018-08-01
+Dog,Female,6,33,Retriever - Labrador,Ivermectin,Recovered with Sequela,20200127,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2014-01-09,2020-01-18
+Dog,Male,7,9,Schnauzer - Miniature,Milbemycin Oxime,Recovered/Normal,20200606,344,Gagging,Animal Owner,Oral,"Tablet, chewable",2019-11-01,2020-06-06
+Dog,Male,3,44,Rottweiler,Ivermectin,Outcome Unknown,20210120,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-02-20,2020-12-01
+Dog,Male,10,5,Terrier (unspecified,Spinosad,Ongoing,20200914,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2020-05-14,2020-09-14
+Dog,Male,10,4,Terrier - Yorkshire,Moxidectin,Recovered/Normal,20201228,1525,Hives (see also 'Skin'),Other Health Care Professional,Subcutaneous,Suspension,2020-12-22,2020-12-22
+Dog,Male,8,38,Shepherd Dog - Belgian Malinois,Milbemycin Oxime,Outcome Unknown,20210318,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2019-02-05,2020-01-01
+Dog,Female,8,9,Terrier - Jack Russell,Spinosad,Recovered/Normal,20111020,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2011-10-12,2011-10-12
+Dog,Male,9,19,Beagle,Moxidectin,Ongoing,20210614,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Unknown,Subcutaneous,Suspension,2021-06-12,2021-06-12
+Dog,Female,7,22,Dog,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20210629,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2021-04-10,2021-06-10
+Dog,Female,5,30,Dog,Afoxolaner,Outcome Unknown,20210316,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2021-03-04,2021-03-04
+Dog,Male,6,23,Collie (unspecified,Milbemycin Oxime,Recovered/Normal,20160105,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2016-01-01,2016-01-01
+Dog,Female,12,5,Terrier - Rat,Spinosad,Outcome Unknown,20160523,99088,"INEFFECTIVE, ASCARIDS NOS",Animal Owner,Oral,"Tablet, chewable",2012-11-01,2016-05-01
+Dog,Male,8,8,Beagle,Spinosad,Recovered/Normal,20160315,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-10-01,2016-03-15
+Dog,Male,1,9,Spaniel - King Charles Cavalier,Spinosad,Recovered/Normal,20160519,2246,Star-gazing,Animal Owner,Oral,"Tablet, chewable",2016-05-18,2016-05-18
+Dog,Female,10,26,Unknown,Melarsomine Dihydrochloride Injection,Outcome Unknown,20150407,855,Panting,Veterinarian,Intramuscular,Suspension,2015-04-06,2015-04-06
+Dog,Male,1,10,Bulldog - French,Afoxolaner,Outcome Unknown,20150304,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-02-01,2015-03-01
+Dog,Male,6,10,Spitz - German Pomeranian,Nitenpyram,Ongoing,20150519,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2015-05-12,2015-05-13
+Dog,Female,1,31,Shepherd Dog - German,Spinosad,Outcome Unknown,20150909,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-09-01,2015-09-01
+Dog,Male,14,3,Terrier - Yorkshire,Ivermectin,Outcome Unknown,20150831,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2006-08-01,2015-08-15
+Dog,Female,4,5,Havanese,Spinosad,Outcome Unknown,20151124,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-11-23,2015-11-23
+Dog,Male,13,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20151019,884,Cough,Animal Owner,Oral,"Tablet, chewable",2015-09-16,2015-09-16
+Dog,Male,8,28,Retriever - Labrador,Spinosad,Recovered/Normal,20150812,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2015-08-09,2015-08-11
+Dog,Female,5,45,Shepherd Dog - German,Ivermectin,Outcome Unknown,20151102,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-01-01,2015-10-28
+Dog,Male,6,17,Sheepdog - Shetland,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20151012,99088,"INEFFECTIVE, ASCARIDS NOS",Animal Owner,Oral,"Tablet, chewable",2015-09-30,2015-09-30
+Dog,Female,13,11,Spaniel - Cocker American,Ivermectin,Ongoing,20170614,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2014-06-24,2017-06-02
+Dog,Male,8,32,German Boxer,Ivermectin,Outcome Unknown,20170627,2798,Lack of efficacy (endoparasite) - hookworm,Unknown,Oral,"Tablet, chewable",2016-07-09,2017-06-06
+Dog,Female,6,29,Weimaraner,Ivermectin,Recovered with Sequela,20170822,99115,"INEFFECTIVE, HEARTWORM LARVAE",Unknown,Oral,"Tablet, chewable",2014-11-21,2017-08-01
+Dog,Mixed,10,1,Dog,Fluralaner Chew Tablets,Outcome Unknown,20170807,1309,Alopecia,Other,Oral,"Tablet, chewable",2017-07-25,2017-07-25
+Dog,Male,5,24,Shepherd,Sarolaner,Outcome Unknown,20170718,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2017-06-09,2017-07-09
+Dog,Female,10,31,German Boxer,Spinosad,Recovered with Sequela,20170919,202,Cardiac disorder NOS,Animal Owner,Oral,"Tablet, chewable",2015-01-01,2017-02-01
+Dog,Female,4,2,Maltese,Spinosad,Recovered/Normal,20170926,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2017-09-26,2017-09-26
+Dog,Female,4,28,Greyhound,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20160422,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2016-04-02,2016-04-02
+Dog,Male,12,34,Pointing Dog - German Short-haired,"Milbemycin Oxime, Lufenuron",Recovered with Sequela,20160926,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,Tablet,2015-06-26,2016-08-26
+Dog,Female,7,24,Greyhound,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20160922,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,Tablet,2016-09-01,2016-09-01
+Dog,Female,7,44,Rottweiler,Polysulfated Glycosaminoglycan,Ongoing,20170214,1891,Pancreatitis,Animal Owner,Intramuscular,Solution,2012-01-01,2017-01-01
+Dog,Unknown,5,14,Dog,Selamectin,Ongoing,20170222,2791,Lack of efficacy (ectoparasite) - ear mite,Animal Owner,Topical,Solution,2016-12-27,2017-02-21
+Dog,Female,7,6,Dachshund - Miniature,Ivermectin,Outcome Unknown,20170314,1221,Other abnormal test result NOS,Unknown,Oral,"Tablet, chewable",2016-03-01,2017-03-01
+Dog,Female,4,22,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Spinosad,Recovered/Normal,20170424,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2017-02-01,2017-02-01
+Dog,Male,5,32,Poodle - Standard,Spinosad,Outcome Unknown,20170417,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2015-10-28,2016-09-01
+Dog,Female,10,40,Retriever - Labrador,Spinosad,Recovered/Normal,20181022,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2014-07-01,2018-10-20
+Dog,Male,7,32,Retriever - Labrador,Ivermectin,Outcome Unknown,20190125,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2016-12-07,2018-12-01
+Dog,Male,10,27,Retriever - Golden,Ivermectin,Outcome Unknown,20190117,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2016-01-01,2019-01-03
+Dog,Male,6,30,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20190304,702,Horner's syndrome,Animal Owner,Oral,Tablet,2019-03-01,2019-03-01
+Dog,Male,11,8,Terrier - West Highland White,Milbemycin Oxime,Outcome Unknown,20171221,2656,Lack of efficacy (roundworm),Animal Owner,Oral,"Tablet, chewable",2016-01-02,2017-12-02
+Dog,Female,1,5,Maltese,Spinosad,Recovered/Normal,20170920,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2017-05-01,2017-09-16
+Dog,Female,2,18,Shepherd Dog - Australian,Ivermectin,Outcome Unknown,20180625,1900,Head tremor,Unknown,Oral,"Tablet, chewable",2018-06-20,2018-06-20
+Dog,Female,6,4,Pug,Spinosad,Outcome Unknown,20180323,2649,Lack of efficacy (flea),Animal Owner,Oral,"Tablet, chewable",2018-03-20,2018-03-20
+Dog,Male,3,9,Retriever - Labrador,Spinosad,Recovered/Normal,20180327,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2018-03-26,2018-03-26
+Dog,Male,10,45,Retriever - Labrador,Oclacitinib Maleate,Ongoing,20180724,302,Diarrhoea,Animal Owner,Oral,Tablet,2017-10-01,2018-07-19
+Dog,Male,5,7,Dachshund,Melarsomine Dihydrochloride,Outcome Unknown,20180803,884,Cough,Veterinarian,Intramuscular,Suspension,2018-06-20,2018-06-20
+Dog,Female,3,24,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20180821,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2017-08-01,2018-08-21
+Dog,Female,10,14,Dog,Milbemycin Oxime,Outcome Unknown,20190521,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,Tablet,2017-08-12,2019-05-12
+Dog,Male,15,46,Akita,Polysulfated Glycosaminoglycan,Outcome Unknown,20190715,302,Diarrhoea,Unknown,Parenteral,Solution,2019-06-06,2019-07-08
+Dog,Female,6,5,Chihuahua,Ivermectin,Outcome Unknown,20200528,645,Seizure NOS,Animal Owner,Oral,"Tablet, chewable",2020-05-12,2020-05-12
+Dog,Male,3,39,Shepherd Dog - German,Spinosad,Outcome Unknown,20200409,2430,Lack of efficacy (endoparasite) - heartworm,Unknown,Oral,"Tablet, chewable",2017-07-08,2017-07-08
+Dog,Male,2,2,Terrier - Yorkshire,Afoxolaner,Outcome Unknown,20191218,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2017-12-01,2019-12-01
+Dog,Male,15,15,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Ivermectin,Recovered with Sequela,20190816,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-08-10,2019-08-01
+Dog,Female,13,20,Shepherd,Grapiprant,Ongoing,20190419,2182,Azotaemia,Animal Owner,Oral,Tablet,2018-12-01,2019-04-19
+Dog,Male,8,11,Spaniel (unspecified,Ivermectin,Outcome Unknown,20191004,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2019-08-20,2019-08-20
+Dog,Male,6,38,Hound,Ivermectin,Outcome Unknown,20191202,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-09-04,2019-02-04
+Dog,Male,3,9,Retriever - Labrador,Milbemycin Oxime,Ongoing,20191121,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-11-20,2019-11-20
+Dog,Male,11,8,Mixed (Dog,Spinosad,Outcome Unknown,20190225,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-02-23,2019-02-23
+Dog,Female,5,13,Crossbred Canine/dog,Spinosad,Outcome Unknown,20190513,2649,Lack of efficacy (flea),Animal Owner,Oral,"Tablet, chewable",2019-03-01,2019-04-01
+Dog,Female,2,48,Mastiff,Milbemycin Oxime,Outcome Unknown,20200128,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2019-05-01,2019-09-01
+Dog,Male,9,9,Terrier - West Highland White,Trilostane,Outcome Unknown,20200130,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,Capsule,2020-01-22,2020-02-20
+Dog,Female,12,3,Poodle - Miniature,Spinosad,Euthanized,20130419,126,Dullness,Animal Owner,Oral,"Tablet, chewable",2013-03-21,2013-03-21
+Dog,Male,7,29,Retriever - Golden,Spinosad,Outcome Unknown,20130122,134,Pica NOS,Animal Owner,Oral,"Tablet, chewable",2012-08-20,2013-01-01
+Dog,Female,9,39,Retriever - Labrador,Cyclosporine A,Recovered/Normal,20130514,469,Conjunctivitis,Animal Owner,Oral,Capsule,2013-04-30,2013-05-06
+Dog,Female,12,7,Shepherd,Spinosad,Recovered/Normal,20130624,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-05-28,2013-05-28
+Dog,Male,8,7,Terrier,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20130617,855,Panting,Animal Owner,Oral,"Tablet, chewable",2013-06-15,2013-06-15
+Dog,Female,9,13,Terrier (unspecified,Spinosad,Recovered/Normal,20120104,356,Otitis externa,Animal Owner,Oral,"Tablet, chewable",2011-06-13,2011-11-13
+Dog,Female,1,3,Shih Tzu,Spinosad,Recovered/Normal,20110923,687,Trembling,Animal Owner,Oral,"Tablet, chewable",2011-09-23,2011-09-23
+Dog,Female,4,8,Shih Tzu,Spinosad,Recovered with Sequela,20120220,959,Scratching,Animal Owner,Oral,"Tablet, chewable",2011-12-01,2012-01-01
+Dog,Male,5,24,Shepherd Dog - German,Spinosad,Outcome Unknown,20111121,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2011-06-01,2011-11-01
+Dog,Male,1,5,Terrier,Spinosad,Outcome Unknown,20120521,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2012-04-15,2012-05-21
+Dog,Female,2,3,Shih Tzu,Spinosad,Outcome Unknown,20120315,959,Scratching,Animal Owner,Oral,"Tablet, chewable",2010-08-01,2014-01-01
+Dog,Female,12,7,Schnauzer (unspecified,Spinosad,Recovered with Sequela,20120425,116,Behavioural disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-04-15,2012-04-15
+Dog,Male,5,6,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120910,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-09-06,2012-09-06
+Dog,Female,1,11,Terrier - Boston,Spinosad,Recovered/Normal,20120806,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-05-01,2012-07-01
+Dog,Female,11,2,Shih Tzu,Spinosad,Recovered with Sequela,20121019,409,Partial blindness,Animal Owner,Oral,"Tablet, chewable",2012-02-01,2012-10-01
+Dog,Male,11,19,Shepherd Dog - German,Carprofen,Died,20121015,116,Behavioural disorder NOS,Animal Owner,Oral,Tablet,2012-09-19,2012-09-24
+Dog,Male,8,6,Terrier - Jack Russell,Spinosad,Recovered/Normal,20120918,645,Seizure NOS,Animal Owner,Oral,"Tablet, chewable",2008-12-01,2012-09-01
+Dog,Male,4,9,Spaniel - Cocker American,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20140926,334,Vomiting,Animal Owner,Oral,Tablet,2014-09-25,2014-09-26
+Dog,Male,12,8,Terrier - Jack Russell,Milbemycin Oxime,Outcome Unknown,20140624,2801,Lack of efficacy (endoparasite) - whipworm,Animal Owner,Oral,Tablet,2013-06-01,2014-05-01
+Dog,Female,4,11,Crossbred Canine/dog,Afoxolaner,Outcome Unknown,20150106,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2015-01-05,2015-01-05
+Dog,Female,6,6,Spaniel - King Charles Cavalier,Spinosad,Recovered with Sequela,20131014,1756,Skin disorders NOS,Animal Owner,Oral,"Tablet, chewable",2013-09-15,2013-09-15
+Dog,Female,6,5,Havanese,Milbemycin Oxime,Recovered/Normal,20131010,335,Emesis,Animal Owner,Oral,Tablet,2013-06-01,2013-08-01
+Dog,Female,1,6,Chihuahua,Spinosad,Recovered with Sequela,20140103,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2013-10-21,2014-01-02
+Dog,Female,1,22,Crossbred Canine/dog,Spinosad,Outcome Unknown,20140506,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-04-21,2014-04-21
+Dog,Female,3,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20131025,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2013-06-24,2013-10-24
+Dog,Female,1,23,Dalmatian,Spinosad,Outcome Unknown,20140224,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2013-09-13,2014-02-13
+Dog,Male,8,39,Retriever - Labrador,Ivermectin,Ongoing,20140602,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2013-04-12,2014-05-01
+Dog,Female,1,18,Retriever - Labrador,Spinosad,Recovered/Normal,20140417,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2014-04-16,2014-04-16
+Dog,Female,9,4,Terrier - Rat,Ivermectin,Outcome Unknown,20141105,960,Pruritus,Animal Owner,Oral,"Tablet, chewable",2005-04-05,2014-10-09
+Dog,Female,8,6,Terrier - Boston,Spinosad,Recovered/Normal,20140404,116,Behavioural disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-04-03,2014-04-03
+Dog,Female,5,24,Pit Bull,Cyclosporine A,Outcome Unknown,20140519,966,Skin lesion NOS,Animal Owner,Oral,Capsule,2014-01-02,2014-05-04
+Dog,Female,2,30,Shepherd,Spinosad,Recovered/Normal,20140812,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-06-01,2015-05-08
+Dog,Unknown,6,18,Chihuahua,Nitenpyram,Ongoing,20140726,302,Diarrhoea,Animal Owner,Oral,Tablet,2014-07-25,2014-07-25
+Dog,Female,3,16,Retriever - Labrador,Moxidectin,Recovered/Normal,20140723,1794,Stiffness NOS,Veterinarian,Subcutaneous,Suspension,2014-07-22,2014-07-22
+Dog,Male,3,33,Retriever - Golden,Ivermectin,Outcome Unknown,20140812,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2011-05-01,2014-07-12
+Dog,Male,8,27,Crossbred Canine/dog,Melarsomine Dihydrochloride,Ongoing,20210113,512,Anaphylaxis,Veterinarian,Intramuscular,Powder,2020-12-04,2021-01-13
+Dog,Female,11,26,Pointing Dog - German Short-haired,Milbemycin Oxime,Outcome Unknown,20201214,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2019-12-01,2020-12-01
+Dog,Female,2,27,German Boxer,Ivermectin,Outcome Unknown,20201215,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2020-10-14,2020-10-14
+Dog,Male,2,32,Retriever - Golden,Ivermectin,Recovered/Normal,20210329,2658,Lack of efficacy (ectoparasite) - tick NOS,Animal Owner,Oral,"Tablet, chewable",2021-03-02,2021-03-02
+Dog,Female,13,9,Shih Tzu,Imidacloprid,Outcome Unknown,20210412,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Topical,Solution,2021-03-31,2021-03-31
+Dog,Male,3,27,Pointing Dog - German Short-haired,Milbemycin Oxime,Outcome Unknown,20210714,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-09-01,2019-09-01
+Dog,Male,3,6,Spaniel - King Charles Cavalier,Milbemycin Oxime,Outcome Unknown,20210512,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2021-04-01,2021-04-01
+Dog,Female,3,3,Maltese,Imidacloprid,Outcome Unknown,20210818,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Topical,Solution,2021-05-01,2021-05-01
+Dog,Female,15,7,Dog,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20210602,686,Twitching,Animal Owner,Oral,"Tablet, chewable",2021-05-09,2021-05-19
+Dog,Female,6,3,Maltese,Moxidectin,Outcome Unknown,20210818,302,Diarrhoea,Veterinarian,Unknown,Suspension,2021-08-11,2021-08-11
+Dog,Female,3,11,Retriever - Labrador,Florfenicol,Outcome Unknown,20210823,2082,Emesis,Veterinarian,Unknown,Solution,2021-06-06,2021-06-06
+Dog,Female,9,40,Bulldog,Spinosad,Recovered/Normal,20120320,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-02-27,2012-03-03
+Dog,Male,7,24,Retriever - Golden,Afoxolaner 68 Mg Chewable Tablets,Outcome Unknown,20160527,958,Itching,Unknown,Oral,"Tablet, chewable",2016-04-22,2016-05-22
+Dog,Female,15,17,Hound - Basset,Afoxolaner 68 Mg Chewable Tablets,Outcome Unknown,20170110,335,Emesis,Unknown,Unknown,"Tablet, chewable",2017-01-10,2017-01-10
+Dog,Male,2,40,Retriever - Labrador,Melarsomine Dihydrochloride,Outcome Unknown,20060215,93,Injection site pain,Veterinarian,Intramuscular,Suspension,2006-02-01,2006-02-02
+Dog,Female,9,4,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20130917,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-09-17,2013-09-17
+Dog,Female,5,6,Crossbred Canine/dog,Milbemycin Oxime,Ongoing,20130715,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2009-06-01,2012-05-01
+Dog,Female,4,31,Shepherd Dog - Australian,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130827,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-08-14,2013-08-14
+Dog,Female,7,6,Pug,Spinosad,Recovered/Normal,20130910,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2010-06-29,2013-08-29
+Dog,Male,1,30,Retriever - Labrador,Spinosad,Recovered/Normal,20131217,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-12-17,2013-12-17
+Dog,Female,4,2,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120808,193,Increased heart rate,Animal Owner,Oral,"Tablet, chewable",2012-04-01,2012-08-06
+Dog,Female,5,34,Doberman Pinscher,Spinosad,Recovered/Normal,20120516,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-03-15,2012-05-15
+Dog,Female,5,9,Beagle,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20120712,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2011-07-08,2012-06-01
+Dog,Female,14,5,Shih Tzu,Spinosad,Recovered/Normal,20120905,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-08-02,2012-09-02
+Dog,Female,2,21,Retriever - Labrador,Spinosad,Recovered/Normal,20120926,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-08-20,2012-08-20
+Dog,Female,8,12,Corgi - Welsh Cardigan,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20121217,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-01-29,2012-12-09
+Dog,Female,13,16,Spaniel (unspecified,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130306,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-03-01,2013-03-01
+Dog,Male,3,18,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130405,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-10-20,2013-04-01
+Dog,Female,4,17,Shepherd Dog - Australian,Spinosad,Outcome Unknown,20130214,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2013-02-01
+Dog,Female,6,1,Chihuahua,Spinosad,Recovered/Normal,20130417,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-04-08,2013-04-08
+Dog,Female,11,2,Terrier - Yorkshire,Milbemycin Oxime,Outcome Unknown,20130307,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2012-05-01,2013-03-02
+Dog,Female,7,42,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130520,998,Decreased appetite,Animal Owner,Oral,"Tablet, chewable",2013-02-28,2013-04-28
+Dog,Female,4,29,Retriever - Labrador,Spinosad,Recovered/Normal,20130604,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-04-01,2013-06-03
+Dog,Female,6,21,Retriever - Labrador,Ivermectin,Outcome Unknown,20140407,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2013-09-30,2014-04-01
+Dog,Male,2,7,Bichon Frise,Ivermectin,Outcome Unknown,20141105,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-11-01,2014-11-05
+Dog,Female,3,29,Retriever - Golden,Spinosad,Recovered/Normal,20140603,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2014-06-01,2014-06-01
+Dog,Male,10,52,Akita,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20140729,124,Inappropriate urination,Animal Owner,Oral,"Tablet, chewable",2014-07-19,2014-07-19
+Dog,Female,4,27,Retriever - Labrador,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20141209,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-09-15,2014-11-15
+Dog,Female,4,2,Terrier - Yorkshire,Spinosad,Outcome Unknown,20141114,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2012-10-01,2014-10-17
+Dog,Female,5,7,Terrier - West Highland White,Cyclosporine A,Outcome Unknown,20150102,1039,Lack of efficacy - NOS,Animal Owner,Oral,Capsule,2014-12-29,2015-01-02
+Dog,Female,1,4,Shih Tzu,Ivermectin,Outcome Unknown,20150114,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-01-01,2014-12-15
+Dog,Female,13,6,Crossbred Canine/dog,Spinosad,Recovered/Normal,20120319,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-03-19,2012-03-19
+Dog,Female,22,13,Beagle,Spinosad,Recovered/Normal,20120917,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-07-15,2012-09-15
+Dog,Male,6,35,Retriever - Labrador,Milbemycin Oxime,Ongoing,20120928,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,Tablet,2010-05-01,2012-04-01
+Dog,Male,3,7,Shih Tzu,Spinosad,Outcome Unknown,20120907,129,Vocalisation,Animal Owner,Oral,"Tablet, chewable",2012-08-01,2012-09-01
+Dog,Male,5,38,Greyhound,Spinosad,Outcome Unknown,20120926,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2012-05-29,2012-08-29
+Dog,Female,2,8,Terrier - Jack Russell,Spinosad,Recovered/Normal,20120821,2071,General illness,Animal Owner,Oral,"Tablet, chewable",2012-07-25,2012-07-25
+Dog,Female,7,7,Poodle - Toy,Spinosad,Recovered with Sequela,20130217,1760,Skin irritation,Animal Owner,Oral,"Tablet, chewable",2012-01-01,2013-02-03
+Dog,Female,2,10,Spaniel - King Charles Cavalier,Spinosad,Recovered with Sequela,20130313,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2013-03-12,2013-03-12
+Dog,Female,11,10,Retriever - Labrador,Spinosad,Outcome Unknown,20130416,292,Drooling,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2013-04-16
+Dog,Female,2,28,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130603,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-06-01,2013-05-02
+Dog,Female,3,2,Terrier - Yorkshire,Spinosad,Outcome Unknown,20130626,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2011-01-01,2013-06-18
+Dog,Female,4,12,Beagle,Spinosad,Outcome Unknown,20130517,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2013-05-14,2013-05-14
+Dog,Female,8,12,Poodle,Spinosad,Recovered/Normal,20130801,315,Bloody diarrhoea,Animal Owner,Oral,"Tablet, chewable",2013-07-31,2013-07-31
+Dog,Male,2,27,Dog,Nitenpyram,Ongoing,20141214,962,Skin sore,Animal Owner,Oral,Tablet,2014-11-30,2014-11-30
+Dog,Male,11,58,Dog,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130930,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-07-26,2013-09-26
+Dog,Female,4,9,Dachshund,Spinosad,Recovered with Sequela,20130624,958,Itching,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2013-06-01
+Dog,Female,1,9,Sheepdog - Shetland,Spinosad,Recovered/Normal,20130822,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-08-01,2013-08-22
+Dog,Male,6,27,Retriever - Labrador,Spinosad,Recovered/Normal,20130923,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-09-18,2013-09-18
+Dog,Female,6,5,Shih Tzu,Spinosad,Recovered/Normal,20130830,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-06-18,2013-08-22
+Dog,Male,1,27,Shepherd Dog - Belgian Malinois,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20131008,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-10-06,2013-10-06
+Dog,Male,10,35,Retriever - Labrador,Spinosad,Recovered/Normal,20140304,1019,Stupor,Animal Owner,Oral,"Tablet, chewable",2013-11-17,2014-03-01
+Dog,Male,5,28,American Pit Bull Terrier,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20131120,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2013-09-15,2013-09-15
+Dog,Male,2,3,Chihuahua,Spinosad,Outcome Unknown,20140623,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2014-06-21,2014-06-21
+Dog,Female,7,27,Shepherd Dog - German,Milbemycin Oxime,Recovered/Normal,20140723,335,Emesis,Animal Owner,Oral,Tablet,2014-03-01,2014-04-01
+Dog,Female,12,9,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20150422,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2012-01-01,2015-04-01
+Dog,Female,7,14,Beagle,Fluralaner Chew Tablets,Outcome Unknown,20160513,2658,Lack of efficacy (ectoparasite) - tick NOS,Animal Owner,Oral,"Tablet, chewable",2015-06-11,2016-03-08
+Dog,Female,7,4,Terrier - Yorkshire,Spinosad,Outcome Unknown,20160129,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2015-12-31
+Dog,Female,2,4,Poodle - Toy,Spinosad,Recovered/Normal,20150914,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2015-09-14
+Dog,Female,16,18,Retriever - Labrador,Spinosad,Outcome Unknown,20150918,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-06-01,2014-08-01
+Dog,Male,7,26,Pointing Dog - German Short-haired,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20150323,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2015-02-24,2015-02-24
+Dog,Male,7,2,Maltese,Spinosad,Outcome Unknown,20150618,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2015-06-18,2015-06-18
+Dog,Male,12,4,Terrier - Jack Russell,Fluralaner Chew Tablets,Outcome Unknown,20150824,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2015-06-18,2015-06-18
+Dog,Female,2,6,Shih Tzu,Ivermectin,Outcome Unknown,20150505,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-05-20,2015-05-01
+Dog,Male,11,3,Terrier - Yorkshire,Spinosad,Outcome Unknown,20150706,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2015-06-27,2015-06-27
+Dog,Male,3,8,Chihuahua,Spinosad,Recovered/Normal,20151106,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2014-08-01,2015-09-01
+Dog,Female,11,35,Retriever - Golden,Spinosad,Recovered/Normal,20150831,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2011-07-01,2015-08-06
+Dog,Female,17,18,Coonhound - Black and Tan,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20150515,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-05-01,2015-05-01
+Dog,Male,5,33,Retriever - Labrador,Ivermectin,Outcome Unknown,20160309,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2011-04-01,2016-02-01
+Dog,Female,3,33,Shepherd Dog - German,"Milbemcyin Oxime, Lufenuron, Praziquantel",Outcome Unknown,20151222,2657,Lack of efficacy (endoparasite) - tapeworm,Animal Owner,Oral,"Tablet, chewable",2015-11-25,2015-11-25
+Dog,Male,2,25,Hound,Ivermectin,Outcome Unknown,20160415,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-06-23,2016-04-01
+Dog,Male,2,33,Retriever - Labrador,Fluralaner Chew Tablets,Outcome Unknown,20160621,996,Anorexia,Animal Owner,Oral,"Tablet, chewable",2016-06-20,2016-06-20
+Dog,Male,2,31,Crossbred Canine/dog,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20160315,2801,Lack of efficacy (endoparasite) - whipworm,Animal Owner,Oral,Tablet,2016-03-01,2016-03-01
+Dog,Female,2,26,Pit Bull,Spinosad,Recovered/Normal,20160709,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2014-07-01,2016-07-09
+Dog,Female,5,30,Pit Bull,Spinosad,Ongoing,20160915,1492,Generalised itching,Animal Owner,Oral,"Tablet, chewable",2016-08-15,2016-08-15
+Dog,Male,4,41,German Boxer,Ivermectin,Recovered with Sequela,20161028,202,Cardiac disorder NOS,Unknown,Oral,"Tablet, chewable",2015-12-17,2016-06-17
+Dog,Male,8,3,Maltese,Spinosad,Outcome Unknown,20170215,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2016-01-01,2017-01-01
+Dog,Female,10,12,Dachshund,Ivermectin,Outcome Unknown,20170103,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2016-09-01,2016-12-01
+Dog,Male,9,3,Chihuahua,Sarolaner,Ongoing,20170404,645,Seizure NOS,Veterinarian,Oral,"Tablet, chewable",2017-04-03,2017-04-03
+Dog,Female,4,2,Chihuahua,Nitenpyram,Ongoing,20170729,1974,Excessive licking and/or grooming,Other,Oral,Tablet,2017-07-29,2017-07-29
+Dog,Female,23,19,Great Pyrenees,Sarolaner,Recovered/Normal,20170627,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2017-06-22,2017-06-22
+Dog,Male,6,31,Retriever - Labrador,Spinosad,Outcome Unknown,20170531,468,Ocular discharge,Animal Owner,Oral,"Tablet, chewable",2017-05-17,2017-05-17
+Dog,Female,21,10,Terrier - Yorkshire,Afoxolaner,Outcome Unknown,20180928,1533,Increased salivation,Animal Owner,Oral,"Tablet, chewable",2018-02-27,2018-09-01
+Dog,Male,8,34,Retriever - Labrador,Ivermectin,Outcome Unknown,20190215,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2010-08-04,2019-01-25
+Dog,Male,8,5,Crossbred Canine/dog,Imidacloprid,Outcome Unknown,20170723,1080,Mucous stool,Animal Owner,Topical,Solution,2017-07-22,2017-07-22
+Dog,Male,7,39,Retriever - Labrador,Spinosad,Ongoing,20170809,1221,Other abnormal test result NOS,Animal Owner,Oral,"Tablet, chewable",2012-05-24,2017-07-01
+Dog,Mixed,8,30,Shepherd Dog - German,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20170718,334,Vomiting,Animal Owner,Oral,Tablet,2017-07-17,2017-07-17
+Dog,Male,5,38,Retriever - Labrador,Milbemycin Oxime,Recovered/Normal,20180215,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2017-01-01,2017-12-07
+Dog,Female,4,4,Dachshund,Nitenpyram,Outcome Unknown,20180508,334,Vomiting,Animal Owner,Oral,Tablet,2018-05-04,2018-05-04
+Dog,Female,12,4,Spitz - German Pomeranian,Sarolaner,Ongoing,20180306,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2018-03-05,2018-03-05
+Dog,Male,3,31,Retriever - Labrador,Afoxolaner,Outcome Unknown,20180319,315,Bloody diarrhoea,Animal Owner,Oral,"Tablet, chewable",2018-03-14,2018-03-14
+Dog,Male,3,35,Retriever - Labrador,Ivermectin,Outcome Unknown,20180730,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2015-01-06,2018-07-01
+Dog,Male,2,32,Bulldog,Spinosad,Outcome Unknown,20180424,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2017-10-01,2018-03-24
+Dog,Male,4,30,Crossbred Canine/dog,Spinosad,Recovered/Normal,20180515,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2018-01-01,2018-05-15
+Dog,Male,3,36,Dog,Milbemycin Oxime,Recovered/Normal,20180905,1200,Hot spot (pyotraumatic dermatitis),Animal Owner,Oral,Tablet,2018-08-01,2018-08-01
+Dog,Male,2,4,Bichon Frise,Spinosad,Recovered/Normal,20180806,2501,Increased yawning,Animal Owner,Oral,"Tablet, chewable",2018-03-02,2018-08-03
+Dog,Female,11,7,Terrier - Jack Russell,Lotilaner,Recovered/Normal,20200717,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2020-07-17,2020-07-17
+Dog,Female,2,24,German Boxer,Ivermectin,Recovered with Sequela,20200316,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2019-04-02,2020-03-01
+Dog,Male,3,34,Retriever - Labrador,Afoxolaner,Recovered/Normal,20190405,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-04-01,2019-04-01
+Dog,Female,7,8,Schnauzer - Miniature,Oclacitinib Maleate,Outcome Unknown,20190701,334,Vomiting,Animal Owner,Oral,Tablet,2018-07-01,2018-07-05
+Dog,Male,4,17,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20191015,1221,Other abnormal test result NOS,Animal Owner,Oral,"Tablet, chewable",2018-10-01,2019-09-01
+Dog,Male,19,32,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20200113,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2019-02-01,2019-07-01
+Dog,Female,10,6,Terrier - Boston,Selamectin,Ongoing,20190930,99112,"INEFFECTIVE, HOOKS",Animal Owner,Topical,Solution,2019-09-25,2019-09-25
+Dog,Female,2,15,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20200513,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2019-01-03,2019-06-01
+Dog,Female,10,9,Terrier,Trilostane,Outcome Unknown,20201127,687,Trembling,Animal Owner,Oral,Capsule,2020-10-12,2020-11-25
+Dog,Female,14,1,Chihuahua,Spinosad,Outcome Unknown,20200403,1043,Weight loss,Animal Owner,Oral,"Tablet, chewable",2015-01-01,2019-03-01
+Dog,Female,10,28,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20190122,2656,Lack of efficacy (roundworm),Animal Owner,Oral,"Tablet, chewable",2017-08-01,2019-01-01
+Dog,Female,11,2,Chihuahua,Nitenpyram,Outcome Unknown,20190822,2649,Lack of efficacy (flea),Animal Owner,Oral,Tablet,2019-08-15,2019-08-20
+Dog,Male,12,4,Chihuahua,Ivermectin,Recovered/Normal,20210510,334,Vomiting,Patient,Oral,"Tablet, chewable",2021-05-09,2021-05-09
+Dog,Female,13,2,Chihuahua,Maropitant Citrate,Outcome Unknown,20210826,1039,Lack of efficacy - NOS,Veterinarian,Unknown,Injection,2021-08-26,2021-08-26
+Dog,Female,2,18,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20210517,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2021-04-28,2021-04-28
+Dog,Female,15,7,Spaniel - King Charles Cavalier,Moxidectin,Recovered/Normal,20200526,512,Anaphylaxis,Unknown,Subcutaneous,Suspension,2020-05-22,2020-05-22
+Dog,Male,13,20,Crossbred Canine/dog,Imidacloprid,Outcome Unknown,20200615,119,Restlessness,Animal Owner,Topical,Solution,2020-04-14,2020-04-14
+Dog,Male,2,22,Collie - Border,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20120725,202,Cardiac disorder NOS,Animal Owner,Oral,"Tablet, chewable",2011-09-01,2012-07-01
+Dog,Female,1,4,Chihuahua,Pyrantel Pamoate,Outcome Unknown,20210326,334,Vomiting,Patient,Oral,"Tablet, chewable",2021-03-25,2021-03-25
+Dog,Male,3,4,Terrier - Yorkshire,Spinosad,Outcome Unknown,20120412,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2010-01-01,2012-03-27
+Dog,Female,7,50,Akita,Spinosad,Recovered with Sequela,20130114,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2012-05-01,2013-01-13
+Dog,Male,7,39,Retriever - Labrador,Milbemycin Oxime,Ongoing,20130125,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,Tablet,2011-02-01,2012-01-01
+Dog,Female,4,27,Greyhound,Moxidectin,Recovered/Normal,20210702,2798,Lack of efficacy (endoparasite) - hookworm,Unknown,Subcutaneous,Suspension,2021-01-29,2021-01-29
+Dog,Male,7,25,Shepherd,Pyrantel Pamoate;Sarolaner,Ongoing,20210806,966,Skin lesion NOS,Animal Owner,Oral,"Tablet, chewable",2021-08-01,2021-08-01
+Dog,Female,18,32,Rottweiler,Spinosad,Outcome Unknown,20120823,884,Cough,Animal Owner,Oral,"Tablet, chewable",2012-08-21,2012-08-21
+Dog,Female,4,4,Terrier - Jack Russell,Spinosad,Recovered/Normal,20130807,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2012-01-01,2013-08-05
+Dog,Female,13,42,Cattle Dog,Afoxolaner 136 Mg Chewable Tablets,Recovered/Normal,20160314,948,Erythema (for urticaria see Immune SOC),Animal Owner,Oral,"Tablet, chewable",2016-01-25,2016-03-07
+Dog,Male,6,17,Crossbred Canine/dog,Spinosad,Outcome Unknown,20140120,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-01-17,2014-01-17
+Dog,Female,12,3,American Pit Bull Terrier,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20120607,273,Tenesmus,Animal Owner,Oral,Tablet,2012-06-05,2012-06-05
+Dog,Female,22,9,Beagle,Spinosad,Recovered/Normal,20130305,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-07-05,2013-03-01
+Dog,Female,5,8,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20130327,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2008-03-15,2013-03-15
+Dog,Female,2,16,Dog (other,Spinosad,Recovered/Normal,20120210,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-01-09,2012-02-09
+Dog,Male,8,30,Retriever - Labrador,Spinosad,Recovered/Normal,20131127,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2009-06-01,2013-11-25
+Dog,Female,2,5,Shih Tzu,Spinosad,Recovered/Normal,20130425,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-07-23,2013-04-23
+Dog,Male,1,4,Chihuahua,Selamectin,Outcome Unknown,20131028,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Topical,Solution,2013-08-01,2013-10-01
+Dog,Male,5,9,Retriever - Labrador,Spinosad,Recovered/Normal,20140723,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2014-07-09,2014-07-09
+Dog,Female,5,8,Terrier - Boston,Ivermectin/Pyrantel Pamoate Chewable 68Mcg/163Mg,Outcome Unknown,20120717,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2007-01-01,2012-07-01
+Dog,Female,16,20,Crossbred Canine/dog,Spinosad,Outcome Unknown,20120822,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2011-07-01,2012-08-01
+Dog,Female,3,24,Shepherd Dog - German,Milbemycin Oxime,Recovered/Normal,20130603,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,Tablet,2012-04-01,2012-11-01
+Dog,Female,21,8,Bulldog - French,Spinosad,Recovered/Normal,20130814,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-12-01,2013-08-01
+Dog,Female,11,10,Shih Tzu,Trilostane,Outcome Unknown,20130128,718,Polyuria,Animal Owner,Oral,Capsule,2012-01-28,2013-02-01
+Dog,Female,7,27,Hound,Spinosad,Recovered/Normal,20140422,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-08-01,2014-04-22
+Dog,Female,13,15,Hound - Basset,Maropitant Citrate,Ongoing,20130703,654,Ataxia,Veterinarian,Subcutaneous,Injection,2013-07-03,2013-07-03
+Dog,Female,8,11,Crossbred Canine/dog,Spinosad,Recovered/Normal,20130819,2082,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-01-18,2013-08-18
+Dog,Male,14,28,Retriever - Labrador,Ivermectin/Pyrantel Pamoate Chewable 272Mcg/652Mg,Outcome Unknown,20130918,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2013-02-28,2013-08-30
+Dog,Male,18,37,Retriever - Labrador,Spinosad,Recovered/Normal,20140619,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2013-03-01,2014-06-01
+Dog,Female,2,35,Retriever - Labrador,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20141208,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-12-01,2014-12-01
+Dog,Female,7,11,Retriever - Labrador,Spinosad,Recovered/Normal,20140127,269,Flatulence,Animal Owner,Oral,"Tablet, chewable",2013-01-15,2014-01-17
+Dog,Female,18,19,Shepherd Dog - German,Melarsomine Dihydrochloride Injection,Outcome Unknown,20141205,92,Injection site lump,Veterinarian,Intramuscular,Suspension,2014-10-11,2014-11-11
+Dog,Male,7,6,Poodle - Miniature,Nitenpyram,Ongoing,20140813,1039,Lack of efficacy - NOS,Animal Owner,Oral,Tablet,2008-01-01,2014-07-01
+Dog,Male,11,9,Mixed (Dog,Pyrantel Pamoate/Praziquantel,Recovered/Normal,20150118,1171,Laboured breathing,Animal Owner,Oral,Tablet,2015-01-18,2015-01-18
+Dog,Male,14,27,Retriever - Labrador,Afoxolaner,Outcome Unknown,20150702,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-06-01,2015-06-01
+Dog,Female,5,3,Spitz - German Pomeranian,Ivermectin,Outcome Unknown,20150313,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2014-12-24,2015-02-15
+Dog,Male,1,7,Dachshund,Moxidectin,Recovered/Normal,20150414,334,Vomiting,Veterinarian,Subcutaneous,Suspension,2015-04-02,2015-04-02
+Dog,Female,11,10,Terrier,Spinosad,Recovered/Normal,20160208,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2016-02-08,2016-02-08
+Dog,Female,9,10,Terrier - Boston,Afoxolaner,Outcome Unknown,20151215,2050,Elevated alanine aminotransferase (ALT),Animal Owner,Oral,"Tablet, chewable",2015-05-01,2015-11-30
+Dog,Male,3,15,Collie - Border,Spinosad,Outcome Unknown,20160201,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2014-08-01,2014-08-01
+Dog,Male,2,29,Mixed (Dog,Melarsomine Dihydrochloride Injection,Ongoing,20160115,129,Vocalisation,Veterinarian,Intramuscular,Suspension,2016-01-14,2016-01-14
+Dog,Male,8,7,Havanese,Carprofen,Ongoing,20160506,1346,Bladder incontinence,Animal Owner,Oral,"Tablet, chewable",2016-03-25,2016-04-20
+Dog,Female,3,4,Maltese,Oclacitinib Maleate,Ongoing,20170822,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,Tablet,2017-08-03,2017-08-21
+Dog,Male,3,30,Greyhound,Ivermectin,Outcome Unknown,20150911,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2015-01-01,2015-08-01
+Dog,Female,11,3,Chihuahua,Spinosad,Ongoing,20161110,1207,Not eating,Animal Owner,Oral,"Tablet, chewable",2014-06-01,2016-11-09
+Dog,Female,3,14,Hound - Basset,Afoxolaner,Outcome Unknown,20160715,645,Seizure NOS,Unknown,Oral,"Tablet, chewable",2016-07-14,2016-07-14
+Dog,Female,7,31,Retriever - Labrador,Florfenicol,Outcome Unknown,20151008,1039,Lack of efficacy - NOS,Veterinarian,Auricular (Otic),Gel,2015-09-11,2015-09-17
+Dog,Female,8,40,Retriever - Labrador,Melarsomine Dihydrochloride Injection,Outcome Unknown,20150323,855,Panting,Veterinarian,Intramuscular,Suspension,2015-03-23,2015-03-23
+Dog,Male,12,7,Maltese,Spinosad,Outcome Unknown,20150929,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2011-07-01,2015-09-17
+Dog,Male,14,9,Schnauzer - Miniature,Afoxolaner,Died,20161129,334,Vomiting,Unknown,Oral,"Tablet, chewable",2016-10-11,2016-11-11
+Dog,Male,6,16,Beagle,Ivermectin,Outcome Unknown,20150702,2798,Lack of efficacy (endoparasite) - hookworm,Unknown,Oral,Tablet,2013-07-01,2015-06-09
+Dog,Female,3,33,Shepherd Dog - German,Spinosad,Outcome Unknown,20151130,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2012-08-21,2015-10-01
+Dog,Female,14,18,American Pit Bull Terrier,"Milbemycin Oxime, Lufenuron",Outcome Unknown,20151019,2801,Lack of efficacy (endoparasite) - whipworm,Animal Owner,Oral,Tablet,2015-10-03,2015-10-03
+Dog,Female,5,23,Retriever - Golden,Ivermectin,Ongoing,20170608,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2016-08-01,2017-06-06
+Dog,Female,4,26,German Boxer,Afoxolaner,Outcome Unknown,20160329,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2015-03-01,2016-03-28
+Dog,Male,12,17,Spaniel - Cocker American,Ivermectin,Outcome Unknown,20170321,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2004-08-16,2017-03-01
+Dog,Male,2,27,Poodle - Standard,Ivermectin,Outcome Unknown,20180213,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2017-12-19,2018-01-17
+Dog,Female,8,11,Beagle,Ivermectin,Recovered with Sequela,20171019,99115,"INEFFECTIVE, HEARTWORM LARVAE",Unknown,Oral,"Tablet, chewable",2015-08-18,2017-10-01
+Dog,Male,2,14,Shepherd Dog - German,Melarsomine Dihydrochloride Injection,Outcome Unknown,20170107,999,Inappetence,Unknown,Intramuscular,Suspension,2017-01-04,2017-01-05
+Dog,Female,8,4,Dog,Pyrantel Pamoate,Outcome Unknown,20180814,334,Vomiting,Patient,Oral,"Tablet, chewable",2018-08-13,2018-08-13
+Dog,Male,4,6,Shih Tzu,Ivermectin,Outcome Unknown,20160505,305,Digestive tract disorder NOS,Unknown,Oral,"Tablet, chewable",2012-03-29,2016-04-23
+Dog,Female,3,43,Shepherd Dog - German,Ivermectin,Recovered with Sequela,20170315,202,Cardiac disorder NOS,Unknown,Oral,"Tablet, chewable",2016-06-08,2017-03-01
+Dog,Female,6,27,Retriever - Labrador,Afoxolaner,Recovered/Normal,20170406,334,Vomiting,Unknown,Oral,"Tablet, chewable",2016-01-14,2017-04-06
+Dog,Female,11,2,Maltese,Afoxolaner,Outcome Unknown,20171002,315,Bloody diarrhoea,Unknown,Oral,"Tablet, chewable",2017-09-22,2017-09-22
+Dog,Female,12,12,Shepherd Dog - German,"Milbemycin Oxime, Lufenuron",Euthanized,20160909,645,Seizure NOS,Animal Owner,Oral,Tablet,2016-09-08,2016-09-08
+Dog,Male,5,31,Crossbred Canine/dog,Ivermectin,Recovered with Sequela,20190430,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2018-03-24,2019-04-01
+Dog,Female,8,29,Collie - Border,Ivermectin,Outcome Unknown,20180510,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2010-05-01,2018-05-01
+Dog,Female,5,15,Sheepdog - Shetland,Oclacitinib Maleate,Ongoing,20180329,645,Seizure NOS,Animal Owner,Oral,Tablet,2018-01-31,2018-03-30
+Dog,Female,10,13,Beagle,Ivermectin,Outcome Unknown,20180718,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2017-10-04,2018-06-20
+Dog,Female,6,24,Crossbred Canine/dog,Lotilaner,Recovered/Normal,20181112,334,Vomiting,Other,Oral,"Tablet, chewable",2018-11-12,2018-11-12
+Dog,Male,6,35,"Deutsche Dogge, Great Dane",Afoxolaner,Outcome Unknown,20180911,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2018-04-30,2018-08-29
+Dog,Male,6,19,Retriever - Golden,Spinosad,Ongoing,20171114,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-01-01,2017-08-01
+Dog,Female,1,34,Shepherd Dog - German,Oclacitinib Maleate,Outcome Unknown,20190507,113,Aggression,Animal Owner,Oral,Tablet,2019-04-30,2019-05-06
+Dog,Male,7,18,Corgi - Welsh Cardigan,Milbemycin Oxime,Outcome Unknown,20180222,2656,Lack of efficacy (roundworm),Animal Owner,Oral,"Tablet, chewable",2016-03-30,2018-02-01
+Dog,Female,10,2,Chihuahua,Imidacloprid,Outcome Unknown,20190121,1942,Elevated liver enzymes,Animal Owner,Topical,Solution,2019-01-15,2019-01-15
+Dog,Male,2,37,Retriever - Golden,Milbemycin Oxime,Outcome Unknown,20190708,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2017-09-01,2019-06-01
+Dog,Male,10,4,Chihuahua,Afoxolaner,Outcome Unknown,20200708,958,Itching,Animal Owner,Oral,"Tablet, chewable",2020-06-13,2020-06-13
+Dog,Female,4,27,Spaniel (unspecified,Afoxolaner,Outcome Unknown,20200918,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2020-06-29,2020-06-29
+Dog,Male,21,37,Hound - Basset,Ivermectin,Outcome Unknown,20210506,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2020-03-16,2021-05-01
+Dog,Female,22,5,Crossbred Canine/dog,Moxidectin,Ongoing,20191030,2430,Lack of efficacy (endoparasite) - heartworm,Unknown,Subcutaneous,Suspension,2018-11-07,2019-05-07
+Dog,Male,5,46,Retriever - Golden,Ivermectin,Outcome Unknown,20210113,1050,Weight gain,Animal Owner,Oral,"Tablet, chewable",2016-01-02,2021-01-02
+Dog,Male,2,33,Shepherd Dog - German,Spinosad,Outcome Unknown,20190129,2430,Lack of efficacy (endoparasite) - heartworm,Animal Owner,Oral,"Tablet, chewable",2016-11-01,2018-12-01
+Dog,Male,3,34,Pit Bull,Milbemycin Oxime,Ongoing,20200113,654,Ataxia,Animal Owner,Oral,"Tablet, chewable",2020-01-09,2020-01-09
+Dog,Female,13,17,Bulldog,Florfenicol,Outcome Unknown,20191119,654,Ataxia,Veterinarian,Unknown,Solution,2019-11-12,2019-11-12
+Dog,Female,8,43,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20201104,1018,Lethargy (see also Central nervous system depression in 'Neurological'),Animal Owner,Oral,"Tablet, chewable",2020-06-10,2020-11-03
+Dog,Female,10,17,Beagle,Milbemycin Oxime,Outcome Unknown,20181009,99115,"INEFFECTIVE, HEARTWORM LARVAE",Animal Owner,Oral,"Tablet, chewable",2017-05-02,2018-09-01
+Dog,Female,5,2,Chihuahua,Spinosad,Recovered/Normal,20200210,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2018-06-01,2020-02-09
+Dog,Female,17,12,Crossbred Canine/dog,Ivermectin,Outcome Unknown,20191009,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2019-10-01,2019-10-01
+Dog,Female,5,13,Crossbred Canine/dog,Milbemycin Oxime,Outcome Unknown,20191203,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2019-12-02,2019-12-02
+Dog,Female,17,26,Retriever - Labrador,Ivermectin,Outcome Unknown,20190320,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2018-01-22,2018-02-21
+Dog,Male,9,5,Terrier - West Highland White,Ivermectin,Ongoing,20200623,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2020-06-01,2020-06-01
+Dog,Male,6,28,Retriever - Labrador,Milbemycin Oxime,Outcome Unknown,20190205,99112,"INEFFECTIVE, HOOKS",Animal Owner,Oral,"Tablet, chewable",2013-07-01,2019-01-04
+Dog,Female,2,6,Unknown,Carprofen,Outcome Unknown,20210818,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2021-08-11,2021-08-15
+Dog,Male,5,20,Crossbred Canine/dog,Spinosad,Recovered/Normal,20200701,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2020-07-01,2020-07-01
+Dog,Male,11,9,Doberman Pinscher,Pyrantel Pamoate;Sarolaner,Outcome Unknown,20201221,657,Stumbling gait,Animal Owner,Oral,"Tablet, chewable",2020-12-15,2020-12-15
+Dog,Male,5,5,Terrier - Yorkshire,Spinosad,Recovered/Normal,20130429,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-03-01,2013-04-01
+Dog,Male,2,72,"Deutsche Dogge, Great Dane",Ivermectin,Ongoing,20210328,1745,Muscle shaking,Animal Owner,Oral,"Tablet, chewable",2021-03-27,2021-03-27
+Dog,Female,13,22,"Cattle Dog - Australian (blue heeler, red heeler, Queensland cattledog",Cyclosporine A,Outcome Unknown,20120329,1221,Other abnormal test result NOS,Animal Owner,Oral,Capsule,2011-12-08,2012-03-27
+Dog,Female,1,6,Poodle,Spinosad,Recovered/Normal,20110826,125,Self trauma,Animal Owner,Oral,"Tablet, chewable",2011-08-25,2011-08-25
+Dog,Female,8,4,Terrier - Jack Russell,Spinosad,Outcome Unknown,20130731,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2013-07-01,2013-07-01
+Dog,Male,8,29,Great Pyrenees,Pyrantel Pamoate;Sarolaner,Ongoing,20210603,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2021-04-15,2021-05-15
+Dog,Male,9,6,Terrier - West Highland White,Imidacloprid,Outcome Unknown,20210104,334,Vomiting,Animal Owner,Topical,Solution,2020-12-30,2020-12-30
+Dog,Male,3,31,Coonhound - Black and Tan,Melarsomine Dihydrochloride,Outcome Unknown,20200310,91,Injection site swelling,Veterinarian,Intramuscular,Suspension,2020-03-09,2020-03-09
+Dog,Male,8,24,Collie - Border,Milbemycin Oxime,Ongoing,20200417,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2018-01-01,2020-04-16
+Dog,Male,9,7,Schnauzer (unspecified,Ivermectin,Ongoing,20200618,2656,Lack of efficacy (endoparasite) - roundworm NOS,Animal Owner,Oral,"Tablet, chewable",2020-05-31,2020-05-31
+Dog,Male,9,12,Retriever - Labrador,Sarolaner,Outcome Unknown,20210706,1971,Hair shedding,Animal Owner,Oral,"Tablet, chewable",2021-06-12,2021-06-12
+Dog,Male,4,4,Terrier,Spinosad,Recovered/Normal,20121016,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-10-07,2012-10-12
+Dog,Female,7,12,Mountain Cur,Moxidectin,Ongoing,20201015,2430,Lack of efficacy (endoparasite) - heartworm,Veterinarian,Subcutaneous,Suspension,2019-10-10,2019-10-10
+Dog,Female,2,40,Shepherd Dog - German,Afoxolaner 136 Mg Chewable Tablets,Outcome Unknown,20170821,302,Diarrhoea,Unknown,Oral,"Tablet, chewable",2017-08-18,2017-08-18
+Dog,Male,2,11,Hound,Nitenpyram,Outcome Unknown,20210905,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,Tablet,2021-08-10,2021-08-17
+Dog,Male,2,32,Greyhound,Milbemycin Oxime,Outcome Unknown,20201116,302,Diarrhoea,Animal Owner,Oral,"Tablet, chewable",2020-06-16,2020-06-16
+Dog,Female,4,13,Bulldog,Afoxolaner,Recovered/Normal,20210105,654,Ataxia,Animal Owner,Unknown,"Tablet, chewable",2020-12-10,2020-12-10
+Dog,Male,8,5,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20110810,855,Panting,Animal Owner,Oral,"Tablet, chewable",2011-08-10,2011-08-10
+Dog,Male,9,29,Shepherd Dog - German,Spinosad,Recovered/Normal,20130220,313,Gastroenteritis,Animal Owner,Oral,"Tablet, chewable",2012-04-01,2012-08-01
+Dog,Female,6,34,Retriever - Labrador,Spinosad,Outcome Unknown,20130325,140,Not sleeping,Animal Owner,Oral,"Tablet, chewable",2012-09-22,2013-03-21
+Dog,Male,7,6,Terrier - Jack Russell,Spinosad,Outcome Unknown,20130916,2649,Lack of efficacy (ectoparasite) - flea,Animal Owner,Oral,"Tablet, chewable",2013-08-30,2013-08-30
+Dog,Female,4,30,Collie (unspecified,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20130724,2798,Lack of efficacy (endoparasite) - hookworm,Animal Owner,Oral,"Tablet, chewable",2013-07-05,2013-07-05
+Dog,Male,7,30,American Pit Bull Terrier,"Ivermectin 272Mcg, Pyrantel Pamoate 228Mg, Praziquantel 228Mg",Outcome Unknown,20120402,837,Abnormal breathing,Other,Oral,"Tablet, chewable",2012-04-01,2012-04-01
+Dog,Female,11,2,Spitz - German Pomeranian,Spinosad,Recovered/Normal,20120815,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-08-14,2012-08-14
+Dog,Female,4,8,Dachshund,Spinosad,Recovered/Normal,20120620,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-01-01,2012-07-20
+Dog,Unknown,17,46,Shepherd Dog - German,Spinosad,Outcome Unknown,20140701,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2013-02-09,2014-06-01
+Dog,Female,1,58,Mastiff,Spinosad,Outcome Unknown,20140319,292,Drooling,Animal Owner,Oral,"Tablet, chewable",2013-09-15,2014-03-18
+Dog,Female,5,19,Collie - Border,Spinosad,Outcome Unknown,20140425,304,Loose stool,Animal Owner,Oral,"Tablet, chewable",2011-10-01,2014-04-20
+Dog,Female,2,5,Terrier - Yorkshire,Spinosad,Recovered/Normal,20121127,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2012-06-15,2012-11-26
+Dog,Female,4,4,Spaniel - Cocker American,Spinosad,Recovered/Normal,20110907,335,Emesis,Animal Owner,Oral,"Tablet, chewable",2011-09-03,2011-09-03
+Dog,Female,14,20,Crossbred Canine/dog,Ivermectin/Pyrantel Pamoate Chewable 136Mcg/326Mg,Outcome Unknown,20130523,305,Digestive tract disorder NOS,Animal Owner,Oral,"Tablet, chewable",2013-03-01,2013-05-07
+Dog,Male,8,20,Spaniel - Cocker American,Fluralaner Chew Tablets,Outcome Unknown,20140804,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2014-07-07,2014-07-07
+Dog,Female,3,1,Chihuahua,Moxidectin,Outcome Unknown,20130219,334,Vomiting,Veterinarian,Subcutaneous,Suspension,2013-02-09,2013-02-09
+Dog,Female,2,9,Beagle,Spinosad,Recovered/Normal,20120405,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2012-04-05,2012-04-05
+Dog,Female,11,9,Beagle,Spinosad,Outcome Unknown,20130906,1039,Lack of efficacy - NOS,Animal Owner,Oral,"Tablet, chewable",2012-11-01,2013-08-01
+Dog,Female,1,4,Dachshund,Spinosad,Recovered with Sequela,20140430,334,Vomiting,Animal Owner,Oral,"Tablet, chewable",2013-09-15,2014-04-19
+Dog,Female,4,29,Crossbred Canine/dog,Spinosad,Recovered/Normal,20140407,119,Restlessness,Animal Owner,Oral,"Tablet, chewable",2014-04-05,2014-04-05
